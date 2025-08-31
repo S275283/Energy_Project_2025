@@ -1,0 +1,2005 @@
+00:00.346	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.354	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki 2.7 started. Node id is set to 8.
+00:00.361	ID:8	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.372	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.376	ID:8	Starting 'Smart Lightbulb with Delta Energy Logging'
+00:00.509	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.517	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki 2.7 started. Node id is set to 2.
+00:00.524	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.525	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.532	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki 2.7 started. Node id is set to 6.
+00:00.535	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.539	ID:2	Starting 'CCTV Camera with Delta Energy Logging'
+00:00.539	ID:6	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.550	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.554	ID:6	Starting 'Motion Sensor with Delta Energy Logging'
+00:00.622	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.630	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki 2.7 started. Node id is set to 4.
+00:00.637	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.648	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.651	ID:4	Starting 'CCTV Camera with Delta Energy Logging'
+00:00.655	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.664	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki 2.7 started. Node id is set to 1.
+00:00.671	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.675	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.682	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.683	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki 2.7 started. Node id is set to 7.
+00:00.685	ID:1	Starting 'UDP Server Process' 'Energy Monitor Process'
+00:00.687	ID:1	UDP server started
+00:00.690	ID:7	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.691	ID:1	Created a new RPL DAG
+00:00.695	ID:1	Server IPv6 addresses: aaaa::212:7401:1:101
+00:00.696	ID:1	aaaa::1
+00:00.699	ID:1	fe80::212:7401:1:101
+00:00.701	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.705	ID:7	Starting 'Smart Lightbulb with Delta Energy Logging'
+00:00.705	ID:1	Created a server connection with remote address :: local/remote port 5688/8775
+00:00.830	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.838	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki 2.7 started. Node id is set to 10.
+00:00.846	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.856	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.859	ID:10	Starting 'Active Sinkhole Attacker'
+00:00.863	ID:10	Sinkhole Attacker: set fake RPL rank = 128
+00:00.867	ID:10	Sinkhole Attacker: listening on UDP port 3000
+00:00.982	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.988	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.990	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki 2.7 started. Node id is set to 9.
+00:00.996	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki 2.7 started. Node id is set to 5.
+00:00.997	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.004	ID:5	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.008	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.011	ID:9	Starting 'Smart Plug with Delta Energy Logging'
+00:01.014	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.018	ID:5	Starting 'Motion Sensor with Delta Energy Logging'
+00:01.173	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.181	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki 2.7 started. Node id is set to 3.
+00:01.188	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.199	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.202	ID:3	Starting 'Smart Thermostat with Delta Energy Logging'
+00:03.535	ID:2	Camera: sending image frame
+00:03.647	ID:4	Camera: sending image frame
+00:05.014	ID:5	Motion Sensor: motion detected
+00:06.198	ID:3	Thermostat Temp: 23C
+00:06.535	ID:2	Camera: sending image frame
+00:06.647	ID:4	Camera: sending image frame
+00:09.535	ID:2	Camera: sending image frame
+00:09.647	ID:4	Camera: sending image frame
+00:10.379	ID:8	Delta Energest - CPU: 9518 LPM: 318057 TX: 2993 RX: 3375
+00:10.380	ID:8	Lightbulb: ON
+00:10.543	ID:2	Delta Energest - CPU: 12673 LPM: 314881 TX: 5607 RX: 2523
+00:10.557	ID:6	Delta Energest - CPU: 16136 LPM: 311406 TX: 5604 RX: 3953
+00:10.655	ID:4	Delta Energest - CPU: 9572 LPM: 317980 TX: 2989 RX: 3154
+00:10.690	ID:1	Delta Energest - CPU: 38438 LPM: 289046 TX: 9665 RX: 317266
+00:10.709	ID:7	Delta Energest - CPU: 10903 LPM: 316645 TX: 2997 RX: 4002
+00:10.710	ID:7	Lightbulb: ON
+00:11.015	ID:5	Motion Sensor: motion detected
+00:11.015	ID:9	Delta Energest - CPU: 18528 LPM: 309044 TX: 6329 RX: 3731
+00:11.024	ID:5	Delta Energest - CPU: 14981 LPM: 312675 TX: 5604 RX: 4011
+00:11.027	ID:5	Motion Sensor: motion detected
+00:11.199	ID:3	Thermostat Temp: 21C
+00:11.208	ID:3	Delta Energest - CPU: 14235 LPM: 313404 TX: 2994 RX: 5404
+00:12.136	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:12.144	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki 2.7 started. Node id is set to 10.
+00:12.152	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:12.162	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:12.165	ID:10	Starting 'Active Sinkhole Attacker'
+00:12.170	ID:10	Sinkhole Attacker: set fake RPL rank = 128
+00:12.173	ID:10	Sinkhole Attacker: listening on UDP port 3000
+00:12.535	ID:2	Camera: sending image frame
+00:12.647	ID:4	Camera: sending image frame
+00:13.550	ID:6	Motion Sensor: motion detected
+00:15.535	ID:2	Camera: sending image frame
+00:15.647	ID:4	Camera: sending image frame
+00:16.008	ID:9	Smart Plug: ON - Device is drawing power
+00:16.022	ID:5	Motion Sensor: motion detected
+00:16.025	ID:5	Motion Sensor: motion detected
+00:16.198	ID:3	Thermostat Temp: 23C
+00:18.535	ID:2	Camera: sending image frame
+00:18.647	ID:4	Camera: sending image frame
+00:20.371	ID:8	Lightbulb: ON
+00:20.381	ID:8	Delta Energest - CPU: 15505 LPM: 312191 TX: 5983 RX: 3819
+00:20.542	ID:2	Delta Energest - CPU: 8857 LPM: 318782 TX: 2991 RX: 2329
+00:20.557	ID:6	Delta Energest - CPU: 13261 LPM: 314340 TX: 2993 RX: 4429
+00:20.655	ID:4	Delta Energest - CPU: 9880 LPM: 317746 TX: 2989 RX: 2721
+00:20.701	ID:7	Lightbulb: ON
+00:20.711	ID:7	Delta Energest - CPU: 16706 LPM: 310973 TX: 5988 RX: 3933
+00:21.015	ID:9	Delta Energest - CPU: 10935 LPM: 316723 TX: 2992 RX: 3919
+00:21.022	ID:5	Delta Energest - CPU: 11939 LPM: 315626 TX: 2993 RX: 4474
+00:21.024	ID:5	Motion Sensor: motion detected
+00:21.204	ID:3	Thermostat Temp: 22C
+00:21.214	ID:3	Delta Energest - CPU: 23616 LPM: 304195 TX: 7908 RX: 5946
+00:21.535	ID:2	Camera: sending image frame
+00:21.647	ID:4	Camera: sending image frame
+00:21.954	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:21.962	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki 2.7 started. Node id is set to 1.
+00:21.969	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:21.980	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:21.984	ID:1	Starting 'UDP Server Process' 'Energy Monitor Process'
+00:21.986	ID:1	UDP server started
+00:21.989	ID:1	Created a new RPL DAG
+00:21.994	ID:1	Server IPv6 addresses: aaaa::212:7401:1:101
+00:21.995	ID:1	aaaa::1
+00:21.998	ID:1	fe80::212:7401:1:101
+00:22.004	ID:1	Created a server connection with remote address :: local/remote port 5688/8775
+00:22.177	ID:10	Delta Energest - CPU: 10280 LPM: 317534 TX: 2995 RX: 3955
+00:23.550	ID:6	Motion Sensor: motion detected
+00:24.535	ID:2	Camera: sending image frame
+00:24.647	ID:4	Camera: sending image frame
+00:26.205	ID:3	Thermostat Temp: 20C
+00:27.535	ID:2	Camera: sending image frame
+00:27.647	ID:4	Camera: sending image frame
+00:30.380	ID:8	Delta Energest - CPU: 10131 LPM: 317494 TX: 2995 RX: 2750
+00:30.381	ID:8	Lightbulb: ON
+00:30.535	ID:2	Camera: sending image frame
+00:30.543	ID:2	Delta Energest - CPU: 4488 LPM: 323228 TX: 0 RX: 2463
+00:30.562	ID:6	Delta Energest - CPU: 16982 LPM: 310772 TX: 5977 RX: 3384
+00:30.648	ID:4	Camera: sending image frame
+00:30.657	ID:4	Delta Energest - CPU: 14651 LPM: 313035 TX: 5986 RX: 2884
+00:30.707	ID:7	Delta Energest - CPU: 6608 LPM: 320938 TX: 0 RX: 2911
+00:30.708	ID:7	Lightbulb: ON
+00:31.015	ID:9	Delta Energest - CPU: 10458 LPM: 317212 TX: 2992 RX: 2971
+00:31.018	ID:9	Smart Plug: OFF - No power draw
+00:31.022	ID:5	Delta Energest - CPU: 15966 LPM: 311657 TX: 5989 RX: 3108
+00:31.199	ID:3	Thermostat Temp: 20C
+00:31.208	ID:3	Delta Energest - CPU: 15074 LPM: 312358 TX: 2999 RX: 4771
+00:31.988	ID:1	Delta Energest - CPU: 30439 LPM: 296971 TX: 4391 RX: 322593
+00:32.177	ID:10	Delta Energest - CPU: 17642 LPM: 310001 TX: 5985 RX: 3711
+00:33.535	ID:2	Camera: sending image frame
+00:33.554	ID:6	Motion Sensor: motion detected
+00:33.647	ID:4	Camera: sending image frame
+00:35.022	ID:5	Motion Sensor: motion detected
+00:36.235	ID:3	Thermostat Temp: 17C
+00:36.535	ID:2	Camera: sending image frame
+00:36.647	ID:4	Camera: sending image frame
+00:39.535	ID:2	Camera: sending image frame
+00:39.647	ID:4	Camera: sending image frame
+00:40.371	ID:8	Lightbulb: ON
+00:40.381	ID:8	Delta Energest - CPU: 11492 LPM: 316205 TX: 2991 RX: 4294
+00:40.543	ID:2	Delta Energest - CPU: 13563 LPM: 313996 TX: 5986 RX: 2756
+00:40.557	ID:6	Delta Energest - CPU: 17959 LPM: 309553 TX: 5984 RX: 4580
+00:40.655	ID:4	Delta Energest - CPU: 9701 LPM: 317878 TX: 2990 RX: 2800
+00:40.700	ID:7	Lightbulb: ON
+00:40.710	ID:7	Delta Energest - CPU: 17293 LPM: 310378 TX: 5987 RX: 4168
+00:41.015	ID:9	Delta Energest - CPU: 15530 LPM: 312128 TX: 5980 RX: 3535
+00:41.022	ID:5	Delta Energest - CPU: 16508 LPM: 311101 TX: 5985 RX: 3555
+00:41.199	ID:3	Thermostat Temp: 12C
+00:41.208	ID:3	Delta Energest - CPU: 20525 LPM: 307112 TX: 5977 RX: 5475
+00:41.992	ID:1	Delta Energest - CPU: 56139 LPM: 271375 TX: 11911 RX: 315725
+00:42.022	ID:5	Motion Sensor: motion detected
+00:42.177	ID:10	Delta Energest - CPU: 14951 LPM: 312667 TX: 2992 RX: 6254
+00:42.535	ID:2	Camera: sending image frame
+00:42.647	ID:4	Camera: sending image frame
+00:45.535	ID:2	Camera: sending image frame
+00:45.647	ID:4	Camera: sending image frame
+00:46.008	ID:9	Smart Plug: ON - Device is drawing power
+00:46.198	ID:3	Thermostat Temp: 7C
+00:48.535	ID:2	Camera: sending image frame
+00:48.647	ID:4	Camera: sending image frame
+00:50.381	ID:8	Delta Energest - CPU: 15516 LPM: 312134 TX: 5986 RX: 3273
+00:50.382	ID:8	Lightbulb: ON
+00:50.543	ID:2	Delta Energest - CPU: 13429 LPM: 314204 TX: 5982 RX: 2450
+00:50.558	ID:6	Delta Energest - CPU: 13675 LPM: 313997 TX: 2993 RX: 5078
+00:50.655	ID:4	Delta Energest - CPU: 14366 LPM: 313295 TX: 5981 RX: 2887
+00:50.709	ID:7	Delta Energest - CPU: 16869 LPM: 310677 TX: 5987 RX: 5080
+00:50.710	ID:7	Lightbulb: ON
+00:51.015	ID:9	Delta Energest - CPU: 11665 LPM: 315986 TX: 2989 RX: 4377
+00:51.022	ID:5	Delta Energest - CPU: 17385 LPM: 310268 TX: 5983 RX: 4353
+00:51.201	ID:3	Thermostat Temp: 2C
+00:51.211	ID:3	Delta Energest - CPU: 20173 LPM: 307541 TX: 5988 RX: 5794
+00:51.535	ID:2	Camera: sending image frame
+00:51.647	ID:4	Camera: sending image frame
+00:51.989	ID:1	Delta Energest - CPU: 51387 LPM: 275975 TX: 12069 RX: 315379
+00:52.177	ID:10	Delta Energest - CPU: 18072 LPM: 309545 TX: 5989 RX: 4478
+00:54.535	ID:2	Camera: sending image frame
+00:54.647	ID:4	Camera: sending image frame
+00:56.198	ID:3	Thermostat Temp: 4C
+00:57.535	ID:2	Camera: sending image frame
+00:57.647	ID:4	Camera: sending image frame
+01:00.371	ID:8	Lightbulb: ON
+01:00.381	ID:8	Delta Energest - CPU: 11166 LPM: 316509 TX: 2991 RX: 4061
+01:00.535	ID:2	Camera: sending image frame
+01:00.544	ID:2	Delta Energest - CPU: 4546 LPM: 323154 TX: 0 RX: 2460
+01:00.557	ID:6	Delta Energest - CPU: 17541 LPM: 310079 TX: 5985 RX: 4621
+01:00.648	ID:4	Camera: sending image frame
+01:00.657	ID:4	Delta Energest - CPU: 14437 LPM: 313298 TX: 5983 RX: 2983
+01:00.702	ID:7	Lightbulb: ON
+01:00.712	ID:7	Delta Energest - CPU: 16859 LPM: 310837 TX: 5981 RX: 4811
+01:01.015	ID:9	Delta Energest - CPU: 16435 LPM: 311152 TX: 5980 RX: 4367
+01:01.018	ID:9	Smart Plug: OFF - No power draw
+01:01.022	ID:5	Delta Energest - CPU: 16358 LPM: 311304 TX: 5986 RX: 3458
+01:01.198	ID:3	Thermostat Temp: 1C
+01:01.208	ID:3	Delta Energest - CPU: 16101 LPM: 311447 TX: 2992 RX: 5715
+01:01.989	ID:1	Delta Energest - CPU: 57937 LPM: 269514 TX: 13431 RX: 314098
+01:02.177	ID:10	Delta Energest - CPU: 14790 LPM: 312851 TX: 2992 RX: 5429
+01:03.535	ID:2	Camera: sending image frame
+01:03.647	ID:4	Camera: sending image frame
+01:06.198	ID:3	Thermostat Temp: -5C
+01:06.535	ID:2	Camera: sending image frame
+01:06.647	ID:4	Camera: sending image frame
+01:09.535	ID:2	Camera: sending image frame
+01:09.647	ID:4	Camera: sending image frame
+01:10.380	ID:8	Delta Energest - CPU: 15330 LPM: 312291 TX: 5984 RX: 3242
+01:10.381	ID:8	Lightbulb: ON
+01:10.542	ID:2	Delta Energest - CPU: 8616 LPM: 318931 TX: 2993 RX: 2412
+01:10.557	ID:6	Delta Energest - CPU: 12093 LPM: 315565 TX: 2993 RX: 3611
+01:10.655	ID:4	Delta Energest - CPU: 9342 LPM: 318249 TX: 2995 RX: 2278
+01:10.709	ID:7	Delta Energest - CPU: 11166 LPM: 316303 TX: 2991 RX: 3409
+01:10.710	ID:7	Lightbulb: ON
+01:11.015	ID:9	Delta Energest - CPU: 10904 LPM: 316677 TX: 2995 RX: 3385
+01:11.022	ID:5	Delta Energest - CPU: 15921 LPM: 311743 TX: 5959 RX: 4411
+01:11.200	ID:3	Thermostat Temp: -7C
+01:11.210	ID:3	Delta Energest - CPU: 18794 LPM: 308875 TX: 5983 RX: 3993
+01:11.988	ID:1	Delta Energest - CPU: 34535 LPM: 292972 TX: 7262 RX: 320350
+01:12.177	ID:10	Delta Energest - CPU: 17665 LPM: 309917 TX: 5992 RX: 4625
+01:12.535	ID:2	Camera: sending image frame
+01:12.647	ID:4	Camera: sending image frame
+01:15.535	ID:2	Camera: sending image frame
+01:15.647	ID:4	Camera: sending image frame
+01:16.008	ID:9	Smart Plug: ON - Device is drawing power
+01:16.198	ID:3	Thermostat Temp: -10C
+01:18.535	ID:2	Camera: sending image frame
+01:18.647	ID:4	Camera: sending image frame
+01:20.371	ID:8	Lightbulb: ON
+01:20.381	ID:8	Delta Energest - CPU: 11128 LPM: 316568 TX: 2996 RX: 3609
+01:20.542	ID:2	Delta Energest - CPU: 8839 LPM: 318763 TX: 2992 RX: 2458
+01:20.557	ID:6	Delta Energest - CPU: 17354 LPM: 310304 TX: 5983 RX: 4392
+01:20.655	ID:4	Delta Energest - CPU: 9788 LPM: 317874 TX: 2995 RX: 2904
+01:20.700	ID:7	Lightbulb: ON
+01:20.710	ID:7	Delta Energest - CPU: 11927 LPM: 315687 TX: 2993 RX: 4063
+01:21.015	ID:9	Delta Energest - CPU: 11377 LPM: 316205 TX: 2996 RX: 3786
+01:21.022	ID:5	Delta Energest - CPU: 13233 LPM: 314433 TX: 3315 RX: 4106
+01:21.199	ID:3	Thermostat Temp: -16C
+01:21.208	ID:3	Delta Energest - CPU: 24650 LPM: 302896 TX: 8876 RX: 5811
+01:21.535	ID:2	Camera: sending image frame
+01:21.647	ID:4	Camera: sending image frame
+01:21.988	ID:1	Delta Energest - CPU: 32202 LPM: 295301 TX: 3592 RX: 324056
+01:22.177	ID:10	Delta Energest - CPU: 13939 LPM: 313659 TX: 2997 RX: 4516
+01:24.535	ID:2	Camera: sending image frame
+01:24.647	ID:4	Camera: sending image frame
+01:26.198	ID:3	Thermostat Temp: -15C
+01:27.535	ID:2	Camera: sending image frame
+01:27.647	ID:4	Camera: sending image frame
+01:30.380	ID:8	Delta Energest - CPU: 10502 LPM: 317124 TX: 2996 RX: 3067
+01:30.381	ID:8	Lightbulb: ON
+01:30.535	ID:2	Camera: sending image frame
+01:30.545	ID:2	Delta Energest - CPU: 8512 LPM: 319149 TX: 2991 RX: 2028
+01:30.557	ID:6	Delta Energest - CPU: 17725 LPM: 309930 TX: 5989 RX: 4687
+01:30.648	ID:4	Camera: sending image frame
+01:30.657	ID:4	Delta Energest - CPU: 14675 LPM: 313057 TX: 5987 RX: 3170
+01:30.709	ID:7	Delta Energest - CPU: 15977 LPM: 311575 TX: 5984 RX: 3512
+01:30.710	ID:7	Lightbulb: ON
+01:31.017	ID:9	Delta Energest - CPU: 6718 LPM: 320957 TX: 0 RX: 3395
+01:31.019	ID:9	Smart Plug: OFF - No power draw
+01:31.023	ID:5	Delta Energest - CPU: 7434 LPM: 320312 TX: 0 RX: 3969
+01:31.199	ID:3	Thermostat Temp: -16C
+01:31.208	ID:3	Delta Energest - CPU: 19363 LPM: 308207 TX: 5991 RX: 4252
+01:31.988	ID:1	Delta Energest - CPU: 37760 LPM: 289728 TX: 6946 RX: 320673
+01:32.177	ID:10	Delta Energest - CPU: 18534 LPM: 309048 TX: 5987 RX: 4380
+01:33.535	ID:2	Camera: sending image frame
+01:33.743	ID:4	Camera: sending image frame
+01:36.200	ID:3	Thermostat Temp: -18C
+01:36.535	ID:2	Camera: sending image frame
+01:36.647	ID:4	Camera: sending image frame
+01:39.535	ID:2	Camera: sending image frame
+01:39.647	ID:4	Camera: sending image frame
+01:40.371	ID:8	Lightbulb: ON
+01:40.381	ID:8	Delta Energest - CPU: 15580 LPM: 312118 TX: 5993 RX: 3480
+01:40.542	ID:2	Delta Energest - CPU: 9036 LPM: 318517 TX: 2990 RX: 2518
+01:40.560	ID:6	Delta Energest - CPU: 13356 LPM: 314369 TX: 2994 RX: 4731
+01:40.655	ID:4	Delta Energest - CPU: 14125 LPM: 313470 TX: 5986 RX: 2597
+01:40.700	ID:7	Lightbulb: ON
+01:40.710	ID:7	Delta Energest - CPU: 16720 LPM: 310888 TX: 5986 RX: 4726
+01:41.015	ID:9	Delta Energest - CPU: 11644 LPM: 315851 TX: 2992 RX: 4286
+01:41.023	ID:5	Delta Energest - CPU: 16876 LPM: 310696 TX: 5987 RX: 4378
+01:41.199	ID:3	Thermostat Temp: -19C
+01:41.208	ID:3	Delta Energest - CPU: 21034 LPM: 306623 TX: 5986 RX: 6200
+01:42.020	ID:1	Delta Energest - CPU: 62603 LPM: 265878 TX: 11505 RX: 317066
+01:42.177	ID:10	Delta Energest - CPU: 19079 LPM: 308518 TX: 5984 RX: 5518
+01:42.535	ID:2	Camera: sending image frame
+01:42.647	ID:4	Camera: sending image frame
+01:45.535	ID:2	Camera: sending image frame
+01:45.647	ID:4	Camera: sending image frame
+01:46.008	ID:9	Smart Plug: ON - Device is drawing power
+01:46.198	ID:3	Thermostat Temp: -23C
+01:48.535	ID:2	Camera: sending image frame
+01:48.647	ID:4	Camera: sending image frame
+01:50.380	ID:8	Delta Energest - CPU: 14955 LPM: 312677 TX: 5981 RX: 3926
+01:50.381	ID:8	Lightbulb: ON
+01:50.543	ID:2	Delta Energest - CPU: 13412 LPM: 314175 TX: 5983 RX: 2569
+01:50.557	ID:6	Delta Energest - CPU: 17830 LPM: 309755 TX: 5985 RX: 4549
+01:50.655	ID:4	Delta Energest - CPU: 14601 LPM: 313057 TX: 5985 RX: 3136
+01:50.709	ID:7	Delta Energest - CPU: 16608 LPM: 310938 TX: 5987 RX: 4446
+01:50.710	ID:7	Lightbulb: ON
+01:51.015	ID:9	Delta Energest - CPU: 12526 LPM: 315042 TX: 2994 RX: 5332
+01:51.022	ID:5	Delta Energest - CPU: 16234 LPM: 311299 TX: 5988 RX: 3706
+01:51.199	ID:3	Thermostat Temp: -25C
+01:51.208	ID:3	Delta Energest - CPU: 15452 LPM: 312206 TX: 2993 RX: 5522
+01:51.535	ID:2	Camera: sending image frame
+01:51.647	ID:4	Camera: sending image frame
+01:52.024	ID:1	Delta Energest - CPU: 73356 LPM: 254230 TX: 9774 RX: 317918
+01:52.177	ID:10	Delta Energest - CPU: 19662 LPM: 307918 TX: 5988 RX: 6256
+01:54.535	ID:2	Camera: sending image frame
+01:54.647	ID:4	Camera: sending image frame
+01:56.201	ID:3	Thermostat Temp: -28C
+01:57.535	ID:2	Camera: sending image frame
+01:57.647	ID:4	Camera: sending image frame
+02:00.371	ID:8	Lightbulb: ON
+02:00.381	ID:8	Delta Energest - CPU: 10685 LPM: 317018 TX: 2991 RX: 4338
+02:00.535	ID:2	Camera: sending image frame
+02:00.545	ID:2	Delta Energest - CPU: 13288 LPM: 314367 TX: 5984 RX: 2506
+02:00.557	ID:6	Delta Energest - CPU: 18166 LPM: 309473 TX: 5981 RX: 4986
+02:00.648	ID:4	Camera: sending image frame
+02:00.657	ID:4	Delta Energest - CPU: 9941 LPM: 317791 TX: 2993 RX: 3089
+02:00.702	ID:7	Lightbulb: ON
+02:00.712	ID:7	Delta Energest - CPU: 17112 LPM: 310553 TX: 5991 RX: 5291
+02:01.015	ID:9	Delta Energest - CPU: 17289 LPM: 310296 TX: 5983 RX: 5757
+02:01.018	ID:9	Smart Plug: OFF - No power draw
+02:01.022	ID:5	Delta Energest - CPU: 17479 LPM: 310110 TX: 5980 RX: 5212
+02:01.199	ID:3	Thermostat Temp: -28C
+02:01.208	ID:3	Delta Energest - CPU: 20594 LPM: 307062 TX: 5995 RX: 6088
+02:02.024	ID:1	Delta Energest - CPU: 81747 LPM: 245757 TX: 18786 RX: 308680
+02:02.177	ID:10	Delta Energest - CPU: 20326 LPM: 307256 TX: 5982 RX: 7418
+02:03.535	ID:2	Camera: sending image frame
+02:03.647	ID:4	Camera: sending image frame
+02:06.198	ID:3	Thermostat Temp: -34C
+02:06.535	ID:2	Camera: sending image frame
+02:06.647	ID:4	Camera: sending image frame
+02:09.535	ID:2	Camera: sending image frame
+02:09.647	ID:4	Camera: sending image frame
+02:10.380	ID:8	Delta Energest - CPU: 15769 LPM: 311847 TX: 5982 RX: 4821
+02:10.381	ID:8	Lightbulb: ON
+02:10.542	ID:2	Delta Energest - CPU: 8835 LPM: 318679 TX: 2990 RX: 2583
+02:10.559	ID:6	Delta Energest - CPU: 18906 LPM: 308789 TX: 5981 RX: 6135
+02:10.655	ID:4	Delta Energest - CPU: 19210 LPM: 308379 TX: 8980 RX: 3284
+02:10.709	ID:7	Delta Energest - CPU: 17075 LPM: 310408 TX: 5977 RX: 5001
+02:10.710	ID:7	Lightbulb: ON
+02:11.015	ID:9	Delta Energest - CPU: 17733 LPM: 309848 TX: 5984 RX: 6107
+02:11.022	ID:5	Delta Energest - CPU: 16961 LPM: 310629 TX: 5988 RX: 4487
+02:11.199	ID:3	Thermostat Temp: -40C
+02:11.208	ID:3	Delta Energest - CPU: 20672 LPM: 306986 TX: 5981 RX: 6423
+02:12.022	ID:1	Delta Energest - CPU: 88418 LPM: 238943 TX: 16087 RX: 311375
+02:12.177	ID:10	Delta Energest - CPU: 20199 LPM: 307385 TX: 5995 RX: 7199
+02:12.535	ID:2	Camera: sending image frame
+02:12.647	ID:4	Camera: sending image frame
+02:15.535	ID:2	Camera: sending image frame
+02:15.647	ID:4	Camera: sending image frame
+02:16.008	ID:9	Smart Plug: ON - Device is drawing power
+02:16.198	ID:3	Thermostat Temp: -46C
+02:18.535	ID:2	Camera: sending image frame
+02:18.647	ID:4	Camera: sending image frame
+02:20.371	ID:8	Lightbulb: ON
+02:20.381	ID:8	Delta Energest - CPU: 16472 LPM: 311220 TX: 5979 RX: 5200
+02:20.543	ID:2	Delta Energest - CPU: 13375 LPM: 314210 TX: 5990 RX: 2555
+02:20.557	ID:6	Delta Energest - CPU: 18333 LPM: 309275 TX: 5985 RX: 5960
+02:20.655	ID:4	Delta Energest - CPU: 14406 LPM: 313249 TX: 5987 RX: 3088
+02:20.700	ID:7	Lightbulb: ON
+02:20.710	ID:7	Delta Energest - CPU: 16862 LPM: 310756 TX: 5983 RX: 4509
+02:21.015	ID:9	Delta Energest - CPU: 17738 LPM: 309842 TX: 5989 RX: 5981
+02:21.022	ID:5	Delta Energest - CPU: 18044 LPM: 309615 TX: 5981 RX: 4927
+02:21.199	ID:3	Thermostat Temp: -44C
+02:21.208	ID:3	Delta Energest - CPU: 20414 LPM: 307249 TX: 5982 RX: 5947
+02:21.535	ID:2	Camera: sending image frame
+02:21.647	ID:4	Camera: sending image frame
+02:22.024	ID:1	Delta Energest - CPU: 84666 LPM: 242838 TX: 15596 RX: 311971
+02:22.177	ID:10	Delta Energest - CPU: 24420 LPM: 303151 TX: 8983 RX: 7082
+02:24.535	ID:2	Camera: sending image frame
+02:24.647	ID:4	Camera: sending image frame
+02:26.198	ID:3	Thermostat Temp: -43C
+02:27.535	ID:2	Camera: sending image frame
+02:27.647	ID:4	Camera: sending image frame
+02:30.380	ID:8	Delta Energest - CPU: 15391 LPM: 312233 TX: 5985 RX: 4281
+02:30.381	ID:8	Lightbulb: ON
+02:30.535	ID:2	Camera: sending image frame
+02:30.545	ID:2	Delta Energest - CPU: 13507 LPM: 314147 TX: 5984 RX: 2632
+02:30.557	ID:6	Delta Energest - CPU: 18009 LPM: 309649 TX: 5981 RX: 5061
+02:30.648	ID:4	Camera: sending image frame
+02:30.657	ID:4	Delta Energest - CPU: 14876 LPM: 312855 TX: 5982 RX: 3583
+02:30.709	ID:7	Delta Energest - CPU: 17146 LPM: 310400 TX: 5990 RX: 4813
+02:30.710	ID:7	Lightbulb: ON
+02:31.015	ID:9	Delta Energest - CPU: 13061 LPM: 314516 TX: 2997 RX: 6193
+02:31.018	ID:9	Smart Plug: OFF - No power draw
+02:31.022	ID:5	Delta Energest - CPU: 17767 LPM: 309877 TX: 5985 RX: 4543
+02:31.199	ID:3	Thermostat Temp: -48C
+02:31.208	ID:3	Delta Energest - CPU: 20327 LPM: 307328 TX: 5986 RX: 6218
+02:32.024	ID:1	Delta Energest - CPU: 94877 LPM: 232504 TX: 17921 RX: 309555
+02:32.177	ID:10	Delta Energest - CPU: 20824 LPM: 306739 TX: 5981 RX: 7952
+02:33.535	ID:2	Camera: sending image frame
+02:33.647	ID:4	Camera: sending image frame
+02:36.198	ID:3	Thermostat Temp: -53C
+02:36.535	ID:2	Camera: sending image frame
+02:36.647	ID:4	Camera: sending image frame
+02:39.535	ID:2	Camera: sending image frame
+02:39.647	ID:4	Camera: sending image frame
+02:40.371	ID:8	Lightbulb: ON
+02:40.381	ID:8	Delta Energest - CPU: 15390 LPM: 312314 TX: 5986 RX: 3865
+02:40.543	ID:2	Delta Energest - CPU: 13163 LPM: 314351 TX: 5983 RX: 2299
+02:40.557	ID:6	Delta Energest - CPU: 22685 LPM: 304962 TX: 8978 RX: 4797
+02:40.655	ID:4	Delta Energest - CPU: 14423 LPM: 313170 TX: 5984 RX: 3039
+02:40.700	ID:7	Lightbulb: ON
+02:40.710	ID:7	Delta Energest - CPU: 16683 LPM: 310940 TX: 5985 RX: 4244
+02:41.015	ID:9	Delta Energest - CPU: 22549 LPM: 305027 TX: 8976 RX: 6811
+02:41.041	ID:5	Delta Energest - CPU: 17413 LPM: 310878 TX: 5988 RX: 4508
+02:41.199	ID:3	Thermostat Temp: -58C
+02:41.208	ID:3	Delta Energest - CPU: 20932 LPM: 306693 TX: 5982 RX: 6179
+02:42.022	ID:1	Delta Energest - CPU: 78171 LPM: 249214 TX: 12477 RX: 314987
+02:42.177	ID:10	Delta Energest - CPU: 19734 LPM: 307848 TX: 5984 RX: 6437
+02:42.535	ID:2	Camera: sending image frame
+02:42.647	ID:4	Camera: sending image frame
+02:45.537	ID:2	Camera: sending image frame
+02:45.647	ID:4	Camera: sending image frame
+02:46.008	ID:9	Smart Plug: ON - Device is drawing power
+02:46.198	ID:3	Thermostat Temp: -58C
+02:48.535	ID:2	Camera: sending image frame
+02:48.647	ID:4	Camera: sending image frame
+02:50.383	ID:8	Delta Energest - CPU: 10969 LPM: 316758 TX: 2989 RX: 4629
+02:50.384	ID:8	Lightbulb: ON
+02:50.543	ID:2	Delta Energest - CPU: 13496 LPM: 314088 TX: 5984 RX: 2639
+02:50.557	ID:6	Delta Energest - CPU: 13229 LPM: 314424 TX: 2991 RX: 4665
+02:50.655	ID:4	Delta Energest - CPU: 9719 LPM: 317927 TX: 2997 RX: 2716
+02:50.710	ID:7	Delta Energest - CPU: 16609 LPM: 310987 TX: 5981 RX: 4392
+02:50.711	ID:7	Lightbulb: ON
+02:51.022	ID:5	Delta Energest - CPU: 12923 LPM: 314097 TX: 2990 RX: 4257
+02:51.112	ID:9	Delta Energest - CPU: 18174 LPM: 312565 TX: 5986 RX: 6686
+02:51.199	ID:3	Thermostat Temp: -57C
+02:51.208	ID:3	Delta Energest - CPU: 19941 LPM: 307709 TX: 5985 RX: 5409
+02:51.535	ID:2	Camera: sending image frame
+02:51.647	ID:4	Camera: sending image frame
+02:52.024	ID:1	Delta Energest - CPU: 86308 LPM: 241173 TX: 13846 RX: 313700
+02:52.177	ID:10	Delta Energest - CPU: 19636 LPM: 307940 TX: 5988 RX: 6695
+02:54.535	ID:2	Camera: sending image frame
+02:54.647	ID:4	Camera: sending image frame
+02:56.201	ID:3	Thermostat Temp: -57C
+02:57.535	ID:2	Camera: sending image frame
+02:57.648	ID:4	Camera: sending image frame
+03:00.371	ID:8	Lightbulb: ON
+03:00.381	ID:8	Delta Energest - CPU: 21039 LPM: 306563 TX: 8979 RX: 5492
+03:00.535	ID:2	Camera: sending image frame
+03:00.545	ID:2	Delta Energest - CPU: 13523 LPM: 314136 TX: 5978 RX: 2518
+03:00.557	ID:6	Delta Energest - CPU: 22801 LPM: 304852 TX: 8984 RX: 5353
+03:00.648	ID:4	Camera: sending image frame
+03:00.657	ID:4	Delta Energest - CPU: 14975 LPM: 312754 TX: 5982 RX: 3446
+03:00.700	ID:7	Lightbulb: ON
+03:00.710	ID:7	Delta Energest - CPU: 17333 LPM: 310241 TX: 5990 RX: 5152
+03:01.015	ID:9	Delta Energest - CPU: 18435 LPM: 305980 TX: 5988 RX: 7006
+03:01.018	ID:9	Smart Plug: OFF - No power draw
+03:01.022	ID:5	Delta Energest - CPU: 23142 LPM: 304514 TX: 8971 RX: 5719
+03:01.199	ID:3	Thermostat Temp: -55C
+03:01.208	ID:3	Delta Energest - CPU: 25805 LPM: 301844 TX: 8977 RX: 6918
+03:02.024	ID:1	Delta Energest - CPU: 91652 LPM: 235784 TX: 17511 RX: 309987
+03:02.177	ID:10	Delta Energest - CPU: 20097 LPM: 307481 TX: 5988 RX: 7394
+03:03.535	ID:2	Camera: sending image frame
+03:03.647	ID:4	Camera: sending image frame
+03:06.198	ID:3	Thermostat Temp: -58C
+03:06.535	ID:2	Camera: sending image frame
+03:06.647	ID:4	Camera: sending image frame
+03:09.535	ID:2	Camera: sending image frame
+03:09.647	ID:4	Camera: sending image frame
+03:10.380	ID:8	Delta Energest - CPU: 15999 LPM: 311625 TX: 5978 RX: 5379
+03:10.381	ID:8	Lightbulb: ON
+03:10.543	ID:2	Delta Energest - CPU: 13483 LPM: 314030 TX: 5983 RX: 2606
+03:10.557	ID:6	Delta Energest - CPU: 12789 LPM: 314863 TX: 2991 RX: 4064
+03:10.655	ID:4	Delta Energest - CPU: 9733 LPM: 317859 TX: 2989 RX: 2667
+03:10.709	ID:7	Delta Energest - CPU: 11841 LPM: 315696 TX: 2995 RX: 4097
+03:10.710	ID:7	Lightbulb: ON
+03:11.015	ID:9	Delta Energest - CPU: 13426 LPM: 314157 TX: 2993 RX: 6636
+03:11.022	ID:5	Delta Energest - CPU: 13692 LPM: 313960 TX: 2996 RX: 5490
+03:11.203	ID:3	Thermostat Temp: -62C
+03:11.213	ID:3	Delta Energest - CPU: 20459 LPM: 307351 TX: 5987 RX: 5785
+03:12.025	ID:1	Delta Energest - CPU: 88141 LPM: 239329 TX: 16311 RX: 311202
+03:12.177	ID:10	Delta Energest - CPU: 24118 LPM: 303459 TX: 8976 RX: 6578
+03:12.535	ID:2	Camera: sending image frame
+03:12.648	ID:4	Camera: sending image frame
+03:15.535	ID:2	Camera: sending image frame
+03:15.647	ID:4	Camera: sending image frame
+03:16.008	ID:9	Smart Plug: ON - Device is drawing power
+03:16.198	ID:3	Thermostat Temp: -65C
+03:18.535	ID:2	Camera: sending image frame
+03:18.647	ID:4	Camera: sending image frame
+03:20.371	ID:8	Lightbulb: ON
+03:20.381	ID:8	Delta Energest - CPU: 16036 LPM: 311666 TX: 5985 RX: 5297
+03:20.542	ID:2	Delta Energest - CPU: 8796 LPM: 318782 TX: 2994 RX: 2548
+03:20.557	ID:6	Delta Energest - CPU: 17773 LPM: 309885 TX: 5981 RX: 4767
+03:20.655	ID:4	Delta Energest - CPU: 14543 LPM: 313119 TX: 5984 RX: 3062
+03:20.743	ID:7	Lightbulb: ON
+03:20.752	ID:7	Delta Energest - CPU: 16576 LPM: 312435 TX: 5989 RX: 4241
+03:21.015	ID:9	Delta Energest - CPU: 22710 LPM: 304868 TX: 8972 RX: 6288
+03:21.022	ID:5	Delta Energest - CPU: 17315 LPM: 310346 TX: 5983 RX: 3941
+03:21.199	ID:3	Thermostat Temp: -68C
+03:21.208	ID:3	Delta Energest - CPU: 20362 LPM: 307126 TX: 5983 RX: 5978
+03:21.535	ID:2	Camera: sending image frame
+03:21.647	ID:4	Camera: sending image frame
+03:22.024	ID:1	Delta Energest - CPU: 84151 LPM: 243264 TX: 16473 RX: 311000
+03:22.177	ID:10	Delta Energest - CPU: 19587 LPM: 308001 TX: 5981 RX: 6844
+03:24.535	ID:2	Camera: sending image frame
+03:24.647	ID:4	Camera: sending image frame
+03:26.198	ID:3	Thermostat Temp: -67C
+03:27.535	ID:2	Camera: sending image frame
+03:27.647	ID:4	Camera: sending image frame
+03:30.380	ID:8	Delta Energest - CPU: 15471 LPM: 312152 TX: 5990 RX: 4849
+03:30.381	ID:8	Lightbulb: ON
+03:30.535	ID:2	Camera: sending image frame
+03:30.545	ID:2	Delta Energest - CPU: 18106 LPM: 309546 TX: 8981 RX: 2687
+03:30.557	ID:6	Delta Energest - CPU: 18239 LPM: 309415 TX: 5991 RX: 5510
+03:30.648	ID:4	Camera: sending image frame
+03:30.657	ID:4	Delta Energest - CPU: 14607 LPM: 313130 TX: 5982 RX: 3086
+03:30.711	ID:7	Delta Energest - CPU: 17548 LPM: 308664 TX: 5988 RX: 5799
+03:30.712	ID:7	Lightbulb: ON
+03:31.015	ID:9	Delta Energest - CPU: 18255 LPM: 309321 TX: 5882 RX: 6708
+03:31.018	ID:9	Smart Plug: OFF - No power draw
+03:31.022	ID:5	Delta Energest - CPU: 17735 LPM: 309915 TX: 5987 RX: 4881
+03:31.199	ID:3	Thermostat Temp: -72C
+03:31.208	ID:3	Delta Energest - CPU: 20497 LPM: 307157 TX: 5986 RX: 6679
+03:32.024	ID:1	Delta Energest - CPU: 89894 LPM: 237526 TX: 17595 RX: 309867
+03:32.177	ID:10	Delta Energest - CPU: 20345 LPM: 307227 TX: 5987 RX: 7194
+03:33.535	ID:2	Camera: sending image frame
+03:33.647	ID:4	Camera: sending image frame
+03:36.198	ID:3	Thermostat Temp: -74C
+03:36.535	ID:2	Camera: sending image frame
+03:36.647	ID:4	Camera: sending image frame
+03:39.535	ID:2	Camera: sending image frame
+03:39.647	ID:4	Camera: sending image frame
+03:40.371	ID:8	Lightbulb: ON
+03:40.381	ID:8	Delta Energest - CPU: 15992 LPM: 311710 TX: 5977 RX: 4601
+03:40.542	ID:2	Delta Energest - CPU: 8598 LPM: 318913 TX: 2988 RX: 2237
+03:40.557	ID:6	Delta Energest - CPU: 17837 LPM: 309813 TX: 5987 RX: 4831
+03:40.655	ID:4	Delta Energest - CPU: 9972 LPM: 317608 TX: 2987 RX: 3144
+03:40.700	ID:7	Lightbulb: ON
+03:40.710	ID:7	Delta Energest - CPU: 17222 LPM: 310333 TX: 5987 RX: 5334
+03:41.015	ID:9	Delta Energest - CPU: 13108 LPM: 314466 TX: 2994 RX: 6133
+03:41.022	ID:5	Delta Energest - CPU: 17765 LPM: 309891 TX: 5980 RX: 5001
+03:41.199	ID:3	Thermostat Temp: -77C
+03:41.208	ID:3	Delta Energest - CPU: 20175 LPM: 307477 TX: 5988 RX: 6343
+03:42.022	ID:1	Delta Energest - CPU: 82867 LPM: 244545 TX: 15914 RX: 311531
+03:42.177	ID:10	Delta Energest - CPU: 15039 LPM: 312528 TX: 2997 RX: 6303
+03:42.535	ID:2	Camera: sending image frame
+03:42.647	ID:4	Camera: sending image frame
+03:45.535	ID:2	Camera: sending image frame
+03:45.647	ID:4	Camera: sending image frame
+03:46.008	ID:9	Smart Plug: ON - Device is drawing power
+03:46.203	ID:3	Thermostat Temp: -75C
+03:48.535	ID:2	Camera: sending image frame
+03:48.647	ID:4	Camera: sending image frame
+03:50.380	ID:8	Delta Energest - CPU: 15609 LPM: 312015 TX: 5989 RX: 4937
+03:50.381	ID:8	Lightbulb: ON
+03:50.542	ID:2	Delta Energest - CPU: 8961 LPM: 318623 TX: 2991 RX: 2768
+03:50.557	ID:6	Delta Energest - CPU: 18399 LPM: 309249 TX: 5982 RX: 5317
+03:50.658	ID:4	Delta Energest - CPU: 14635 LPM: 313127 TX: 5985 RX: 3051
+03:50.709	ID:7	Delta Energest - CPU: 16965 LPM: 310568 TX: 5987 RX: 4674
+03:50.710	ID:7	Lightbulb: ON
+03:51.015	ID:9	Delta Energest - CPU: 18116 LPM: 309465 TX: 5982 RX: 6549
+03:51.022	ID:5	Delta Energest - CPU: 22119 LPM: 305541 TX: 8990 RX: 4591
+03:51.199	ID:3	Thermostat Temp: -74C
+03:51.208	ID:3	Delta Energest - CPU: 21507 LPM: 306149 TX: 5987 RX: 6981
+03:51.535	ID:2	Camera: sending image frame
+03:51.647	ID:4	Camera: sending image frame
+03:52.020	ID:1	Delta Energest - CPU: 94128 LPM: 233151 TX: 16963 RX: 310441
+03:52.177	ID:10	Delta Energest - CPU: 20688 LPM: 306894 TX: 5989 RX: 7582
+03:54.535	ID:2	Camera: sending image frame
+03:54.647	ID:4	Camera: sending image frame
+03:56.201	ID:3	Thermostat Temp: -80C
+03:57.535	ID:2	Camera: sending image frame
+03:57.647	ID:4	Camera: sending image frame
+04:00.371	ID:8	Lightbulb: ON
+04:00.381	ID:8	Delta Energest - CPU: 15844 LPM: 311863 TX: 5982 RX: 4709
+04:00.535	ID:2	Camera: sending image frame
+04:00.545	ID:2	Delta Energest - CPU: 13248 LPM: 314408 TX: 5983 RX: 2274
+04:00.616	ID:6	Delta Energest - CPU: 22895 LPM: 306665 TX: 8981 RX: 5408
+04:00.648	ID:4	Camera: sending image frame
+04:00.657	ID:4	Delta Energest - CPU: 19216 LPM: 308415 TX: 8985 RX: 3207
+04:00.700	ID:7	Lightbulb: ON
+04:00.710	ID:7	Delta Energest - CPU: 17744 LPM: 309864 TX: 5991 RX: 5712
+04:01.015	ID:9	Delta Energest - CPU: 17633 LPM: 309950 TX: 5986 RX: 6373
+04:01.018	ID:9	Smart Plug: OFF - No power draw
+04:01.022	ID:5	Delta Energest - CPU: 12300 LPM: 315353 TX: 2993 RX: 3824
+04:01.199	ID:3	Thermostat Temp: -81C
+04:01.208	ID:3	Delta Energest - CPU: 20902 LPM: 306749 TX: 5983 RX: 7434
+04:02.042	ID:1	Delta Energest - CPU: 84241 LPM: 243987 TX: 17515 RX: 310713
+04:02.177	ID:10	Delta Energest - CPU: 24632 LPM: 302931 TX: 8984 RX: 7213
+04:03.535	ID:2	Camera: sending image frame
+04:03.647	ID:4	Camera: sending image frame
+04:06.198	ID:3	Thermostat Temp: -83C
+04:06.535	ID:2	Camera: sending image frame
+04:06.647	ID:4	Camera: sending image frame
+04:09.535	ID:2	Camera: sending image frame
+04:09.647	ID:4	Camera: sending image frame
+04:10.380	ID:8	Delta Energest - CPU: 10788 LPM: 316840 TX: 2996 RX: 4996
+04:10.381	ID:8	Lightbulb: ON
+04:10.542	ID:2	Delta Energest - CPU: 8758 LPM: 318748 TX: 2991 RX: 2453
+04:10.557	ID:6	Delta Energest - CPU: 13226 LPM: 312508 TX: 2995 RX: 4813
+04:10.655	ID:4	Delta Energest - CPU: 14389 LPM: 313202 TX: 5984 RX: 3117
+04:10.709	ID:7	Delta Energest - CPU: 16559 LPM: 310987 TX: 5988 RX: 4270
+04:10.710	ID:7	Lightbulb: ON
+04:11.015	ID:9	Delta Energest - CPU: 18782 LPM: 308830 TX: 5989 RX: 6814
+04:11.022	ID:5	Delta Energest - CPU: 18077 LPM: 309578 TX: 5983 RX: 5168
+04:11.199	ID:3	Thermostat Temp: -86C
+04:11.208	ID:3	Delta Energest - CPU: 20601 LPM: 307044 TX: 5992 RX: 5986
+04:12.025	ID:1	Delta Energest - CPU: 77945 LPM: 248986 TX: 13453 RX: 313518
+04:12.177	ID:10	Delta Energest - CPU: 19675 LPM: 307898 TX: 5980 RX: 6648
+04:12.535	ID:2	Camera: sending image frame
+04:12.647	ID:4	Camera: sending image frame
+04:15.535	ID:2	Camera: sending image frame
+04:15.647	ID:4	Camera: sending image frame
+04:16.011	ID:9	Smart Plug: ON - Device is drawing power
+04:16.204	ID:3	Thermostat Temp: -84C
+04:18.535	ID:2	Camera: sending image frame
+04:18.647	ID:4	Camera: sending image frame
+04:20.371	ID:8	Lightbulb: ON
+04:20.381	ID:8	Delta Energest - CPU: 10567 LPM: 317135 TX: 2992 RX: 3969
+04:20.543	ID:2	Delta Energest - CPU: 13404 LPM: 314176 TX: 5989 RX: 2490
+04:20.557	ID:6	Delta Energest - CPU: 17515 LPM: 310136 TX: 5984 RX: 5142
+04:20.655	ID:4	Delta Energest - CPU: 14427 LPM: 313233 TX: 5989 RX: 3015
+04:20.700	ID:7	Lightbulb: ON
+04:20.710	ID:7	Delta Energest - CPU: 16414 LPM: 311205 TX: 5983 RX: 3954
+04:21.015	ID:9	Delta Energest - CPU: 13742 LPM: 313917 TX: 2994 RX: 5753
+04:21.022	ID:5	Delta Energest - CPU: 17424 LPM: 310231 TX: 5989 RX: 4383
+04:21.199	ID:3	Thermostat Temp: -86C
+04:21.208	ID:3	Delta Energest - CPU: 19737 LPM: 307919 TX: 5990 RX: 5215
+04:21.535	ID:2	Camera: sending image frame
+04:21.647	ID:4	Camera: sending image frame
+04:22.026	ID:1	Delta Energest - CPU: 78521 LPM: 248987 TX: 15439 RX: 312091
+04:22.177	ID:10	Delta Energest - CPU: 18812 LPM: 308765 TX: 5977 RX: 5818
+04:24.535	ID:2	Camera: sending image frame
+04:24.647	ID:4	Camera: sending image frame
+04:26.198	ID:3	Thermostat Temp: -92C
+04:27.535	ID:2	Camera: sending image frame
+04:27.647	ID:4	Camera: sending image frame
+04:30.380	ID:8	Delta Energest - CPU: 15266 LPM: 312360 TX: 5985 RX: 4530
+04:30.381	ID:8	Lightbulb: ON
+04:30.535	ID:2	Camera: sending image frame
+04:30.545	ID:2	Delta Energest - CPU: 13271 LPM: 314384 TX: 5988 RX: 2345
+04:30.557	ID:6	Delta Energest - CPU: 17732 LPM: 309921 TX: 5990 RX: 4493
+04:30.648	ID:4	Camera: sending image frame
+04:30.657	ID:4	Delta Energest - CPU: 14862 LPM: 312871 TX: 5985 RX: 3480
+04:30.709	ID:7	Delta Energest - CPU: 11988 LPM: 315549 TX: 2992 RX: 4353
+04:30.710	ID:7	Lightbulb: ON
+04:31.015	ID:9	Delta Energest - CPU: 18823 LPM: 308838 TX: 5987 RX: 6192
+04:31.018	ID:9	Smart Plug: OFF - No power draw
+04:31.022	ID:5	Delta Energest - CPU: 12537 LPM: 315128 TX: 2993 RX: 3820
+04:31.199	ID:3	Thermostat Temp: -95C
+04:31.208	ID:3	Delta Energest - CPU: 15252 LPM: 312406 TX: 2992 RX: 5505
+04:32.023	ID:1	Delta Energest - CPU: 81287 LPM: 246077 TX: 15204 RX: 312198
+04:32.177	ID:10	Delta Energest - CPU: 21041 LPM: 306522 TX: 5989 RX: 8098
+04:33.535	ID:2	Camera: sending image frame
+04:33.647	ID:4	Camera: sending image frame
+04:36.198	ID:3	Thermostat Temp: -96C
+04:36.535	ID:2	Camera: sending image frame
+04:36.647	ID:4	Camera: sending image frame
+04:39.535	ID:2	Camera: sending image frame
+04:39.647	ID:4	Camera: sending image frame
+04:40.371	ID:8	Lightbulb: ON
+04:40.381	ID:8	Delta Energest - CPU: 11295 LPM: 316410 TX: 2995 RX: 5030
+04:40.542	ID:2	Delta Energest - CPU: 8779 LPM: 318732 TX: 2986 RX: 2728
+04:40.557	ID:6	Delta Energest - CPU: 17738 LPM: 309918 TX: 5990 RX: 4911
+04:40.655	ID:4	Delta Energest - CPU: 9788 LPM: 317799 TX: 2993 RX: 3050
+04:40.700	ID:7	Lightbulb: ON
+04:40.710	ID:7	Delta Energest - CPU: 21797 LPM: 305824 TX: 8979 RX: 5415
+04:41.015	ID:9	Delta Energest - CPU: 19047 LPM: 308591 TX: 5986 RX: 6243
+04:41.022	ID:5	Delta Energest - CPU: 18049 LPM: 309607 TX: 5988 RX: 4965
+04:41.199	ID:3	Thermostat Temp: -95C
+04:41.208	ID:3	Delta Energest - CPU: 25326 LPM: 302333 TX: 8973 RX: 6558
+04:42.022	ID:1	Delta Energest - CPU: 88659 LPM: 238752 TX: 16963 RX: 310533
+04:42.177	ID:10	Delta Energest - CPU: 19884 LPM: 307696 TX: 5985 RX: 6925
+04:42.607	ID:2	Camera: sending image frame
+04:42.647	ID:4	Camera: sending image frame
+04:45.535	ID:2	Camera: sending image frame
+04:45.647	ID:4	Camera: sending image frame
+04:46.008	ID:9	Smart Plug: ON - Device is drawing power
+04:46.199	ID:3	Thermostat Temp: -101C
+04:48.535	ID:2	Camera: sending image frame
+04:48.647	ID:4	Camera: sending image frame
+04:50.468	ID:8	Delta Energest - CPU: 20549 LPM: 309967 TX: 8983 RX: 5251
+04:50.469	ID:8	Lightbulb: ON
+04:50.543	ID:2	Delta Energest - CPU: 13378 LPM: 314201 TX: 5983 RX: 2532
+04:50.557	ID:6	Delta Energest - CPU: 18055 LPM: 309604 TX: 5991 RX: 4758
+04:50.655	ID:4	Delta Energest - CPU: 14651 LPM: 313009 TX: 5979 RX: 3171
+04:50.709	ID:7	Delta Energest - CPU: 11863 LPM: 315681 TX: 2992 RX: 3968
+04:50.710	ID:7	Lightbulb: ON
+04:51.015	ID:9	Delta Energest - CPU: 18837 LPM: 308811 TX: 5983 RX: 6519
+04:51.022	ID:5	Delta Energest - CPU: 17224 LPM: 310434 TX: 5987 RX: 4150
+04:51.199	ID:3	Thermostat Temp: -105C
+04:51.208	ID:3	Delta Energest - CPU: 20220 LPM: 307437 TX: 5985 RX: 5191
+04:51.535	ID:2	Camera: sending image frame
+04:51.647	ID:4	Camera: sending image frame
+04:52.039	ID:1	Delta Energest - CPU: 87230 LPM: 240717 TX: 16007 RX: 312049
+04:52.177	ID:10	Delta Energest - CPU: 19873 LPM: 307707 TX: 5989 RX: 7128
+04:54.535	ID:2	Camera: sending image frame
+04:54.647	ID:4	Camera: sending image frame
+04:56.199	ID:3	Thermostat Temp: -104C
+04:57.535	ID:2	Camera: sending image frame
+04:57.647	ID:4	Camera: sending image frame
+05:00.371	ID:8	Lightbulb: ON
+05:00.381	ID:8	Delta Energest - CPU: 11296 LPM: 313507 TX: 2993 RX: 4960
+05:00.535	ID:2	Camera: sending image frame
+05:00.545	ID:2	Delta Energest - CPU: 8655 LPM: 318999 TX: 2993 RX: 2478
+05:00.557	ID:6	Delta Energest - CPU: 17493 LPM: 310164 TX: 5989 RX: 5038
+05:00.648	ID:4	Camera: sending image frame
+05:00.657	ID:4	Delta Energest - CPU: 14654 LPM: 313074 TX: 5986 RX: 3327
+05:00.700	ID:7	Lightbulb: ON
+05:00.710	ID:7	Delta Energest - CPU: 17567 LPM: 310045 TX: 5988 RX: 5406
+05:01.015	ID:9	Delta Energest - CPU: 18221 LPM: 309428 TX: 5987 RX: 5630
+05:01.018	ID:9	Smart Plug: OFF - No power draw
+05:01.022	ID:5	Delta Energest - CPU: 17496 LPM: 310161 TX: 5988 RX: 4753
+05:01.199	ID:3	Thermostat Temp: -103C
+05:01.208	ID:3	Delta Energest - CPU: 20068 LPM: 307590 TX: 5983 RX: 6078
+05:02.024	ID:1	Delta Energest - CPU: 79619 LPM: 247334 TX: 13767 RX: 313255
+05:02.177	ID:10	Delta Energest - CPU: 19535 LPM: 308025 TX: 5991 RX: 7023
+05:03.535	ID:2	Camera: sending image frame
+05:03.647	ID:4	Camera: sending image frame
+05:06.199	ID:3	Thermostat Temp: -104C
+05:06.535	ID:2	Camera: sending image frame
+05:06.647	ID:4	Camera: sending image frame
+05:09.535	ID:2	Camera: sending image frame
+05:09.647	ID:4	Camera: sending image frame
+05:10.380	ID:8	Delta Energest - CPU: 15827 LPM: 311804 TX: 5985 RX: 4438
+05:10.381	ID:8	Lightbulb: ON
+05:10.543	ID:2	Delta Energest - CPU: 17970 LPM: 309547 TX: 8981 RX: 2583
+05:10.557	ID:6	Delta Energest - CPU: 22788 LPM: 304870 TX: 8983 RX: 5321
+05:10.655	ID:4	Delta Energest - CPU: 14783 LPM: 312801 TX: 5983 RX: 3710
+05:10.709	ID:7	Delta Energest - CPU: 21926 LPM: 305619 TX: 8977 RX: 5201
+05:10.710	ID:7	Lightbulb: ON
+05:11.015	ID:9	Delta Energest - CPU: 18459 LPM: 309191 TX: 5989 RX: 6248
+05:11.022	ID:5	Delta Energest - CPU: 22426 LPM: 305230 TX: 8983 RX: 4446
+05:11.199	ID:3	Thermostat Temp: -110C
+05:11.208	ID:3	Delta Energest - CPU: 21148 LPM: 306503 TX: 5978 RX: 6868
+05:12.020	ID:1	Delta Energest - CPU: 87556 LPM: 239708 TX: 12722 RX: 314689
+05:12.177	ID:10	Delta Energest - CPU: 20080 LPM: 307494 TX: 5982 RX: 6857
+05:12.535	ID:2	Camera: sending image frame
+05:12.647	ID:4	Camera: sending image frame
+05:15.535	ID:2	Camera: sending image frame
+05:15.647	ID:4	Camera: sending image frame
+05:16.008	ID:9	Smart Plug: ON - Device is drawing power
+05:16.199	ID:3	Thermostat Temp: -111C
+05:18.535	ID:2	Camera: sending image frame
+05:18.647	ID:4	Camera: sending image frame
+05:20.371	ID:8	Lightbulb: ON
+05:20.381	ID:8	Delta Energest - CPU: 15706 LPM: 311996 TX: 5979 RX: 4995
+05:20.543	ID:2	Delta Energest - CPU: 13449 LPM: 314135 TX: 5980 RX: 2588
+05:20.557	ID:6	Delta Energest - CPU: 17715 LPM: 309941 TX: 5873 RX: 4409
+05:20.655	ID:4	Delta Energest - CPU: 14192 LPM: 313468 TX: 5980 RX: 2812
+05:20.701	ID:7	Lightbulb: ON
+05:20.710	ID:7	Delta Energest - CPU: 12406 LPM: 315227 TX: 2990 RX: 4805
+05:21.015	ID:9	Delta Energest - CPU: 23384 LPM: 304272 TX: 8978 RX: 6118
+05:21.022	ID:5	Delta Energest - CPU: 12549 LPM: 315111 TX: 2995 RX: 4007
+05:21.199	ID:3	Thermostat Temp: -114C
+05:21.208	ID:3	Delta Energest - CPU: 20400 LPM: 307259 TX: 5988 RX: 5675
+05:21.535	ID:2	Camera: sending image frame
+05:21.647	ID:4	Camera: sending image frame
+05:22.035	ID:1	Delta Energest - CPU: 80417 LPM: 247568 TX: 16724 RX: 311263
+05:22.177	ID:10	Delta Energest - CPU: 19866 LPM: 307713 TX: 5681 RX: 6748
+05:24.535	ID:2	Camera: sending image frame
+05:24.647	ID:4	Camera: sending image frame
+05:26.199	ID:3	Thermostat Temp: -116C
+05:27.535	ID:2	Camera: sending image frame
+05:27.647	ID:4	Camera: sending image frame
+05:30.380	ID:8	Delta Energest - CPU: 15775 LPM: 311843 TX: 5988 RX: 4963
+05:30.381	ID:8	Lightbulb: ON
+05:30.535	ID:2	Camera: sending image frame
+05:30.545	ID:2	Delta Energest - CPU: 13468 LPM: 314191 TX: 5991 RX: 2575
+05:30.557	ID:6	Delta Energest - CPU: 18000 LPM: 309654 TX: 5988 RX: 4879
+05:30.648	ID:4	Camera: sending image frame
+05:30.657	ID:4	Delta Energest - CPU: 9674 LPM: 318055 TX: 2993 RX: 3027
+05:30.709	ID:7	Delta Energest - CPU: 16511 LPM: 311014 TX: 5987 RX: 4182
+05:30.710	ID:7	Lightbulb: ON
+05:31.015	ID:9	Delta Energest - CPU: 13870 LPM: 313789 TX: 2991 RX: 5712
+05:31.018	ID:9	Smart Plug: OFF - No power draw
+05:31.022	ID:5	Delta Energest - CPU: 17265 LPM: 310392 TX: 5985 RX: 4018
+05:31.199	ID:3	Thermostat Temp: -121C
+05:31.208	ID:3	Delta Energest - CPU: 20577 LPM: 307074 TX: 5981 RX: 6014
+05:32.046	ID:1	Delta Energest - CPU: 80196 LPM: 247580 TX: 13284 RX: 314583
+05:32.177	ID:10	Delta Energest - CPU: 20175 LPM: 307406 TX: 5981 RX: 7358
+05:33.535	ID:2	Camera: sending image frame
+05:33.647	ID:4	Camera: sending image frame
+05:36.199	ID:3	Thermostat Temp: -121C
+05:36.535	ID:2	Camera: sending image frame
+05:36.647	ID:4	Camera: sending image frame
+05:39.535	ID:2	Camera: sending image frame
+05:39.647	ID:4	Camera: sending image frame
+05:40.371	ID:8	Lightbulb: ON
+05:40.381	ID:8	Delta Energest - CPU: 15417 LPM: 312286 TX: 5985 RX: 4070
+05:40.542	ID:2	Delta Energest - CPU: 8615 LPM: 318895 TX: 2993 RX: 2511
+05:40.557	ID:6	Delta Energest - CPU: 13532 LPM: 314125 TX: 2991 RX: 4334
+05:40.655	ID:4	Delta Energest - CPU: 14162 LPM: 313432 TX: 5987 RX: 2431
+05:40.700	ID:7	Lightbulb: ON
+05:40.710	ID:7	Delta Energest - CPU: 16398 LPM: 311225 TX: 5982 RX: 3836
+05:41.015	ID:9	Delta Energest - CPU: 18636 LPM: 309005 TX: 5987 RX: 5920
+05:41.022	ID:5	Delta Energest - CPU: 17078 LPM: 310576 TX: 5986 RX: 3912
+05:41.199	ID:3	Thermostat Temp: -122C
+05:41.208	ID:3	Delta Energest - CPU: 20336 LPM: 307314 TX: 5988 RX: 5920
+05:42.022	ID:1	Delta Energest - CPU: 80006 LPM: 246648 TX: 12313 RX: 314444
+05:42.177	ID:10	Delta Energest - CPU: 19756 LPM: 307823 TX: 5990 RX: 7047
+05:42.535	ID:2	Camera: sending image frame
+05:42.647	ID:4	Camera: sending image frame
+05:45.535	ID:2	Camera: sending image frame
+05:45.647	ID:4	Camera: sending image frame
+05:46.008	ID:9	Smart Plug: ON - Device is drawing power
+05:46.199	ID:3	Thermostat Temp: -124C
+05:48.535	ID:2	Camera: sending image frame
+05:48.647	ID:4	Camera: sending image frame
+05:50.380	ID:8	Delta Energest - CPU: 15255 LPM: 312372 TX: 5985 RX: 4361
+05:50.381	ID:8	Lightbulb: ON
+05:50.542	ID:2	Delta Energest - CPU: 8757 LPM: 318825 TX: 2995 RX: 2479
+05:50.557	ID:6	Delta Energest - CPU: 17466 LPM: 310193 TX: 5986 RX: 4570
+05:50.655	ID:4	Delta Energest - CPU: 14808 LPM: 312854 TX: 5984 RX: 3404
+05:50.709	ID:7	Delta Energest - CPU: 16670 LPM: 310878 TX: 5991 RX: 4642
+05:50.710	ID:7	Lightbulb: ON
+05:51.015	ID:9	Delta Energest - CPU: 18352 LPM: 309302 TX: 5985 RX: 5788
+05:51.022	ID:5	Delta Energest - CPU: 17423 LPM: 310230 TX: 5982 RX: 4549
+05:51.199	ID:3	Thermostat Temp: -125C
+05:51.208	ID:3	Delta Energest - CPU: 20634 LPM: 307025 TX: 5991 RX: 6431
+05:51.535	ID:2	Camera: sending image frame
+05:51.647	ID:4	Camera: sending image frame
+05:52.040	ID:1	Delta Energest - CPU: 85630 LPM: 242385 TX: 13525 RX: 314579
+05:52.177	ID:10	Delta Energest - CPU: 19640 LPM: 307916 TX: 5991 RX: 6952
+05:54.535	ID:2	Camera: sending image frame
+05:54.647	ID:4	Camera: sending image frame
+05:56.199	ID:3	Thermostat Temp: -129C
+05:57.535	ID:2	Camera: sending image frame
+05:57.647	ID:4	Camera: sending image frame
+06:00.371	ID:8	Lightbulb: ON
+06:00.381	ID:8	Delta Energest - CPU: 16050 LPM: 311651 TX: 5979 RX: 5128
+06:00.535	ID:2	Camera: sending image frame
+06:00.545	ID:2	Delta Energest - CPU: 8621 LPM: 319026 TX: 2993 RX: 2300
+06:00.557	ID:6	Delta Energest - CPU: 23205 LPM: 304442 TX: 8982 RX: 5515
+06:00.648	ID:4	Camera: sending image frame
+06:00.657	ID:4	Delta Energest - CPU: 14907 LPM: 312827 TX: 5985 RX: 3412
+06:00.700	ID:7	Lightbulb: ON
+06:00.710	ID:7	Delta Energest - CPU: 17438 LPM: 310168 TX: 5990 RX: 5642
+06:01.015	ID:9	Delta Energest - CPU: 23325 LPM: 304326 TX: 8877 RX: 6238
+06:01.018	ID:9	Smart Plug: OFF - No power draw
+06:01.022	ID:5	Delta Energest - CPU: 21771 LPM: 305890 TX: 8981 RX: 4176
+06:01.250	ID:3	Thermostat Temp: -128C
+06:01.260	ID:3	Delta Energest - CPU: 25763 LPM: 303571 TX: 8981 RX: 7750
+06:02.018	ID:1	Delta Energest - CPU: 98064 LPM: 228568 TX: 19989 RX: 306735
+06:02.177	ID:10	Delta Energest - CPU: 20524 LPM: 307046 TX: 5985 RX: 7722
+06:03.535	ID:2	Camera: sending image frame
+06:03.647	ID:4	Camera: sending image frame
+06:06.199	ID:3	Thermostat Temp: -126C
+06:06.535	ID:2	Camera: sending image frame
+06:06.647	ID:4	Camera: sending image frame
+06:09.638	ID:2	Camera: sending image frame
+06:09.647	ID:4	Camera: sending image frame
+06:10.444	ID:8	Delta Energest - CPU: 15630 LPM: 314122 TX: 5982 RX: 4641
+06:10.445	ID:8	Lightbulb: ON
+06:10.543	ID:2	Delta Energest - CPU: 17937 LPM: 309574 TX: 8975 RX: 2610
+06:10.557	ID:6	Delta Energest - CPU: 18786 LPM: 308867 TX: 5989 RX: 6367
+06:10.655	ID:4	Delta Energest - CPU: 14608 LPM: 312981 TX: 5989 RX: 3084
+06:10.709	ID:7	Delta Energest - CPU: 16953 LPM: 310589 TX: 5984 RX: 4898
+06:10.710	ID:7	Lightbulb: ON
+06:11.015	ID:9	Delta Energest - CPU: 14176 LPM: 313471 TX: 2995 RX: 6311
+06:11.022	ID:5	Delta Energest - CPU: 18322 LPM: 309331 TX: 5985 RX: 5230
+06:11.199	ID:3	Thermostat Temp: -127C
+06:11.208	ID:3	Delta Energest - CPU: 20761 LPM: 305203 TX: 5984 RX: 6753
+06:12.043	ID:1	Delta Energest - CPU: 76227 LPM: 252036 TX: 12559 RX: 315767
+06:12.177	ID:10	Delta Energest - CPU: 19004 LPM: 308581 TX: 5985 RX: 6160
+06:12.535	ID:2	Camera: sending image frame
+06:12.647	ID:4	Camera: sending image frame
+06:15.544	ID:2	Camera: sending image frame
+06:15.647	ID:4	Camera: sending image frame
+06:16.129	ID:9	Smart Plug: ON - Device is drawing power
+06:16.199	ID:3	Thermostat Temp: -129C
+06:18.535	ID:2	Camera: sending image frame
+06:18.647	ID:4	Camera: sending image frame
+06:20.371	ID:8	Lightbulb: ON
+06:20.381	ID:8	Delta Energest - CPU: 10811 LPM: 314770 TX: 2994 RX: 4002
+06:20.542	ID:2	Delta Energest - CPU: 8573 LPM: 319006 TX: 2990 RX: 2311
+06:20.557	ID:6	Delta Energest - CPU: 12489 LPM: 315171 TX: 2992 RX: 4041
+06:20.655	ID:4	Delta Energest - CPU: 14412 LPM: 313250 TX: 5981 RX: 2948
+06:20.700	ID:7	Lightbulb: ON
+06:20.710	ID:7	Delta Energest - CPU: 16290 LPM: 311321 TX: 5992 RX: 3937
+06:21.015	ID:9	Delta Energest - CPU: 18112 LPM: 309543 TX: 5986 RX: 5388
+06:21.022	ID:5	Delta Energest - CPU: 12497 LPM: 315163 TX: 2989 RX: 3787
+06:21.199	ID:3	Thermostat Temp: -134C
+06:21.208	ID:3	Delta Energest - CPU: 14634 LPM: 313027 TX: 2996 RX: 4615
+06:21.535	ID:2	Camera: sending image frame
+06:21.647	ID:4	Camera: sending image frame
+06:22.025	ID:1	Delta Energest - CPU: 66838 LPM: 260095 TX: 11683 RX: 315264
+06:22.177	ID:10	Delta Energest - CPU: 18957 LPM: 308621 TX: 5983 RX: 5744
+06:24.535	ID:2	Camera: sending image frame
+06:24.647	ID:4	Camera: sending image frame
+06:26.199	ID:3	Thermostat Temp: -140C
+06:27.535	ID:2	Camera: sending image frame
+06:27.783	ID:4	Camera: sending image frame
+06:30.380	ID:8	Delta Energest - CPU: 16128 LPM: 311497 TX: 5984 RX: 5020
+06:30.381	ID:8	Lightbulb: ON
+06:30.535	ID:2	Camera: sending image frame
+06:30.545	ID:2	Delta Energest - CPU: 13494 LPM: 314160 TX: 5987 RX: 2618
+06:30.560	ID:6	Delta Energest - CPU: 17975 LPM: 309785 TX: 5984 RX: 4700
+06:30.648	ID:4	Camera: sending image frame
+06:30.657	ID:4	Delta Energest - CPU: 14581 LPM: 313151 TX: 5984 RX: 3032
+06:30.709	ID:7	Delta Energest - CPU: 12017 LPM: 315518 TX: 2997 RX: 4530
+06:30.710	ID:7	Lightbulb: ON
+06:31.016	ID:9	Delta Energest - CPU: 18953 LPM: 308735 TX: 5982 RX: 6978
+06:31.019	ID:9	Smart Plug: OFF - No power draw
+06:31.022	ID:5	Delta Energest - CPU: 17537 LPM: 310119 TX: 5983 RX: 4522
+06:31.199	ID:3	Thermostat Temp: -142C
+06:31.208	ID:3	Delta Energest - CPU: 20800 LPM: 306852 TX: 5984 RX: 6281
+06:32.039	ID:1	Delta Energest - CPU: 94246 LPM: 233688 TX: 20711 RX: 307197
+06:32.177	ID:10	Delta Energest - CPU: 20689 LPM: 306894 TX: 5987 RX: 7731
+06:33.535	ID:2	Camera: sending image frame
+06:33.647	ID:4	Camera: sending image frame
+06:36.201	ID:3	Thermostat Temp: -144C
+06:36.535	ID:2	Camera: sending image frame
+06:36.647	ID:4	Camera: sending image frame
+06:39.535	ID:2	Camera: sending image frame
+06:39.647	ID:4	Camera: sending image frame
+06:40.371	ID:8	Lightbulb: ON
+06:40.381	ID:8	Delta Energest - CPU: 16220 LPM: 311475 TX: 5992 RX: 5767
+06:40.543	ID:2	Delta Energest - CPU: 13588 LPM: 313925 TX: 5987 RX: 2719
+06:40.557	ID:6	Delta Energest - CPU: 23223 LPM: 304325 TX: 8983 RX: 5862
+06:40.655	ID:4	Delta Energest - CPU: 14798 LPM: 312792 TX: 5987 RX: 3449
+06:40.700	ID:7	Lightbulb: ON
+06:40.710	ID:7	Delta Energest - CPU: 22098 LPM: 305524 TX: 8983 RX: 5595
+06:41.015	ID:9	Delta Energest - CPU: 18839 LPM: 308774 TX: 5981 RX: 6382
+06:41.022	ID:5	Delta Energest - CPU: 22475 LPM: 305182 TX: 8972 RX: 5041
+06:41.199	ID:3	Thermostat Temp: -149C
+06:41.208	ID:3	Delta Energest - CPU: 20642 LPM: 307017 TX: 5982 RX: 6820
+06:42.043	ID:1	Delta Energest - CPU: 88214 LPM: 239354 TX: 17282 RX: 310318
+06:42.177	ID:10	Delta Energest - CPU: 19960 LPM: 307617 TX: 5983 RX: 7029
+06:42.535	ID:2	Camera: sending image frame
+06:42.647	ID:4	Camera: sending image frame
+06:45.535	ID:2	Camera: sending image frame
+06:45.647	ID:4	Camera: sending image frame
+06:46.008	ID:9	Smart Plug: ON - Device is drawing power
+06:46.199	ID:3	Thermostat Temp: -150C
+06:48.535	ID:2	Camera: sending image frame
+06:48.647	ID:4	Camera: sending image frame
+06:50.380	ID:8	Delta Energest - CPU: 15964 LPM: 311659 TX: 5991 RX: 5457
+06:50.381	ID:8	Lightbulb: ON
+06:50.542	ID:2	Delta Energest - CPU: 8373 LPM: 319209 TX: 2991 RX: 2029
+06:50.557	ID:6	Delta Energest - CPU: 12966 LPM: 314696 TX: 3053 RX: 4836
+06:50.655	ID:4	Delta Energest - CPU: 9698 LPM: 317962 TX: 2993 RX: 2770
+06:50.710	ID:7	Delta Energest - CPU: 16337 LPM: 311243 TX: 5982 RX: 4300
+06:50.711	ID:7	Lightbulb: ON
+06:51.015	ID:9	Delta Energest - CPU: 19138 LPM: 308498 TX: 5982 RX: 6546
+06:51.022	ID:5	Delta Energest - CPU: 13095 LPM: 314562 TX: 2993 RX: 4628
+06:51.199	ID:3	Thermostat Temp: -151C
+06:51.208	ID:3	Delta Energest - CPU: 19926 LPM: 307731 TX: 5989 RX: 5277
+06:51.535	ID:2	Camera: sending image frame
+06:51.647	ID:4	Camera: sending image frame
+06:52.024	ID:1	Delta Energest - CPU: 76400 LPM: 250469 TX: 15361 RX: 311548
+06:52.177	ID:10	Delta Energest - CPU: 18898 LPM: 308674 TX: 5980 RX: 6063
+06:54.535	ID:2	Camera: sending image frame
+06:54.647	ID:4	Camera: sending image frame
+06:56.199	ID:3	Thermostat Temp: -149C
+06:57.535	ID:2	Camera: sending image frame
+06:57.647	ID:4	Camera: sending image frame
+07:00.371	ID:8	Lightbulb: ON
+07:00.381	ID:8	Delta Energest - CPU: 15778 LPM: 311917 TX: 5989 RX: 4823
+07:00.535	ID:2	Camera: sending image frame
+07:00.545	ID:2	Delta Energest - CPU: 8648 LPM: 319009 TX: 2993 RX: 2455
+07:00.557	ID:6	Delta Energest - CPU: 17939 LPM: 309713 TX: 5981 RX: 5134
+07:00.648	ID:4	Camera: sending image frame
+07:00.657	ID:4	Delta Energest - CPU: 14202 LPM: 313529 TX: 5987 RX: 2880
+07:00.700	ID:7	Lightbulb: ON
+07:00.710	ID:7	Delta Energest - CPU: 17005 LPM: 310576 TX: 5982 RX: 4725
+07:01.015	ID:9	Delta Energest - CPU: 18472 LPM: 309184 TX: 5981 RX: 6153
+07:01.018	ID:9	Smart Plug: OFF - No power draw
+07:01.022	ID:5	Delta Energest - CPU: 17671 LPM: 309984 TX: 5989 RX: 4599
+07:01.199	ID:3	Thermostat Temp: -151C
+07:01.208	ID:3	Delta Energest - CPU: 20473 LPM: 307174 TX: 5987 RX: 6430
+07:02.024	ID:1	Delta Energest - CPU: 92962 LPM: 234437 TX: 17515 RX: 309959
+07:02.177	ID:10	Delta Energest - CPU: 20044 LPM: 307522 TX: 5979 RX: 7428
+07:03.535	ID:2	Camera: sending image frame
+07:03.648	ID:4	Camera: sending image frame
+07:06.199	ID:3	Thermostat Temp: -157C
+07:06.535	ID:2	Camera: sending image frame
+07:06.649	ID:4	Camera: sending image frame
+07:09.535	ID:2	Camera: sending image frame
+07:09.647	ID:4	Camera: sending image frame
+07:10.380	ID:8	Delta Energest - CPU: 15569 LPM: 312059 TX: 5984 RX: 4339
+07:10.381	ID:8	Lightbulb: ON
+07:10.543	ID:2	Delta Energest - CPU: 13368 LPM: 314147 TX: 5987 RX: 2532
+07:10.557	ID:6	Delta Energest - CPU: 18049 LPM: 309603 TX: 5991 RX: 5224
+07:10.655	ID:4	Delta Energest - CPU: 14679 LPM: 312912 TX: 5983 RX: 3246
+07:10.709	ID:7	Delta Energest - CPU: 16966 LPM: 310577 TX: 5986 RX: 5358
+07:10.710	ID:7	Lightbulb: ON
+07:11.015	ID:9	Delta Energest - CPU: 18722 LPM: 308919 TX: 5989 RX: 6266
+07:11.022	ID:5	Delta Energest - CPU: 17506 LPM: 310150 TX: 5990 RX: 4495
+07:11.199	ID:3	Thermostat Temp: -157C
+07:11.208	ID:3	Delta Energest - CPU: 21045 LPM: 306610 TX: 5985 RX: 6916
+07:12.018	ID:1	Delta Energest - CPU: 80865 LPM: 246413 TX: 13210 RX: 314119
+07:12.177	ID:10	Delta Energest - CPU: 24270 LPM: 303313 TX: 8979 RX: 6602
+07:12.535	ID:2	Camera: sending image frame
+07:12.647	ID:4	Camera: sending image frame
+07:15.535	ID:2	Camera: sending image frame
+07:15.648	ID:4	Camera: sending image frame
+07:16.008	ID:9	Smart Plug: ON - Device is drawing power
+07:16.199	ID:3	Thermostat Temp: -163C
+07:18.535	ID:2	Camera: sending image frame
+07:18.647	ID:4	Camera: sending image frame
+07:20.371	ID:8	Lightbulb: ON
+07:20.381	ID:8	Delta Energest - CPU: 16350 LPM: 311348 TX: 5984 RX: 5106
+07:20.542	ID:2	Delta Energest - CPU: 8815 LPM: 318764 TX: 2995 RX: 2487
+07:20.557	ID:6	Delta Energest - CPU: 22874 LPM: 304781 TX: 8979 RX: 5060
+07:20.655	ID:4	Delta Energest - CPU: 10217 LPM: 317443 TX: 2989 RX: 3274
+07:20.700	ID:7	Lightbulb: ON
+07:20.710	ID:7	Delta Energest - CPU: 17645 LPM: 309974 TX: 5985 RX: 5608
+07:21.015	ID:9	Delta Energest - CPU: 18881 LPM: 308770 TX: 5978 RX: 6633
+07:21.022	ID:5	Delta Energest - CPU: 18019 LPM: 309624 TX: 5987 RX: 5279
+07:21.199	ID:3	Thermostat Temp: -167C
+07:21.208	ID:3	Delta Energest - CPU: 20617 LPM: 307035 TX: 5985 RX: 6075
+07:21.591	ID:2	Camera: sending image frame
+07:21.647	ID:4	Camera: sending image frame
+07:22.034	ID:1	Delta Energest - CPU: 84934 LPM: 243045 TX: 15915 RX: 312106
+07:22.177	ID:10	Delta Energest - CPU: 20314 LPM: 307255 TX: 5985 RX: 6972
+07:24.535	ID:2	Camera: sending image frame
+07:24.647	ID:4	Camera: sending image frame
+07:26.199	ID:3	Thermostat Temp: -166C
+07:27.535	ID:2	Camera: sending image frame
+07:27.647	ID:4	Camera: sending image frame
+07:30.380	ID:8	Delta Energest - CPU: 16287 LPM: 311335 TX: 5987 RX: 5000
+07:30.381	ID:8	Lightbulb: ON
+07:30.535	ID:2	Camera: sending image frame
+07:30.545	ID:2	Delta Energest - CPU: 13422 LPM: 314225 TX: 5983 RX: 2629
+07:30.557	ID:6	Delta Energest - CPU: 12999 LPM: 314662 TX: 2996 RX: 4517
+07:30.648	ID:4	Camera: sending image frame
+07:30.657	ID:4	Delta Energest - CPU: 14488 LPM: 313246 TX: 5984 RX: 2939
+07:30.709	ID:7	Delta Energest - CPU: 11654 LPM: 315891 TX: 2995 RX: 4113
+07:30.710	ID:7	Lightbulb: ON
+07:31.015	ID:9	Delta Energest - CPU: 19515 LPM: 308136 TX: 5982 RX: 7037
+07:31.018	ID:9	Smart Plug: OFF - No power draw
+07:31.022	ID:5	Delta Energest - CPU: 17680 LPM: 309974 TX: 5983 RX: 4912
+07:31.204	ID:3	Thermostat Temp: -167C
+07:31.213	ID:3	Delta Energest - CPU: 25512 LPM: 302299 TX: 8975 RX: 6212
+07:32.024	ID:1	Delta Energest - CPU: 91385 LPM: 235717 TX: 16638 RX: 310514
+07:32.177	ID:10	Delta Energest - CPU: 20076 LPM: 307499 TX: 5986 RX: 6818
+07:33.535	ID:2	Camera: sending image frame
+07:33.647	ID:4	Camera: sending image frame
+07:36.266	ID:3	Thermostat Temp: -173C
+07:36.535	ID:2	Camera: sending image frame
+07:36.647	ID:4	Camera: sending image frame
+07:39.535	ID:2	Camera: sending image frame
+07:39.647	ID:4	Camera: sending image frame
+07:40.371	ID:8	Lightbulb: ON
+07:40.381	ID:8	Delta Energest - CPU: 15672 LPM: 312021 TX: 5993 RX: 4925
+07:40.542	ID:2	Delta Energest - CPU: 8635 LPM: 318875 TX: 2993 RX: 2474
+07:40.557	ID:6	Delta Energest - CPU: 18179 LPM: 309470 TX: 5988 RX: 5379
+07:40.655	ID:4	Delta Energest - CPU: 14595 LPM: 312998 TX: 5984 RX: 3044
+07:40.700	ID:7	Lightbulb: ON
+07:40.710	ID:7	Delta Energest - CPU: 16965 LPM: 310646 TX: 5984 RX: 4462
+07:41.015	ID:9	Delta Energest - CPU: 18367 LPM: 309275 TX: 5993 RX: 5908
+07:41.022	ID:5	Delta Energest - CPU: 17805 LPM: 309850 TX: 5989 RX: 4319
+07:41.199	ID:3	Thermostat Temp: -176C
+07:41.208	ID:3	Delta Energest - CPU: 19600 LPM: 307900 TX: 5987 RX: 5484
+07:42.022	ID:1	Delta Energest - CPU: 77678 LPM: 249762 TX: 13528 RX: 313924
+07:42.177	ID:10	Delta Energest - CPU: 20085 LPM: 307495 TX: 5985 RX: 6749
+07:42.535	ID:2	Camera: sending image frame
+07:42.647	ID:4	Camera: sending image frame
+07:45.535	ID:2	Camera: sending image frame
+07:45.648	ID:4	Camera: sending image frame
+07:46.008	ID:9	Smart Plug: ON - Device is drawing power
+07:46.199	ID:3	Thermostat Temp: -181C
+07:48.535	ID:2	Camera: sending image frame
+07:48.647	ID:4	Camera: sending image frame
+07:50.380	ID:8	Delta Energest - CPU: 15562 LPM: 312064 TX: 5982 RX: 4653
+07:50.381	ID:8	Lightbulb: ON
+07:50.543	ID:2	Delta Energest - CPU: 18180 LPM: 309406 TX: 8976 RX: 2801
+07:50.557	ID:6	Delta Energest - CPU: 23002 LPM: 304650 TX: 8984 RX: 5151
+07:50.655	ID:4	Delta Energest - CPU: 14811 LPM: 312851 TX: 5993 RX: 3400
+07:50.709	ID:7	Delta Energest - CPU: 16804 LPM: 310745 TX: 5988 RX: 4500
+07:50.710	ID:7	Lightbulb: ON
+07:51.015	ID:9	Delta Energest - CPU: 18673 LPM: 308977 TX: 5991 RX: 6675
+07:51.022	ID:5	Delta Energest - CPU: 22910 LPM: 304738 TX: 8967 RX: 5479
+07:51.199	ID:3	Thermostat Temp: -182C
+07:51.208	ID:3	Delta Energest - CPU: 21206 LPM: 306446 TX: 5987 RX: 6967
+07:51.535	ID:2	Camera: sending image frame
+07:51.751	ID:4	Camera: sending image frame
+07:52.024	ID:1	Delta Energest - CPU: 89969 LPM: 237488 TX: 14407 RX: 313169
+07:52.177	ID:10	Delta Energest - CPU: 20458 LPM: 307121 TX: 5983 RX: 7738
+07:54.535	ID:2	Camera: sending image frame
+07:54.647	ID:4	Camera: sending image frame
+07:56.199	ID:3	Thermostat Temp: -181C
+07:57.535	ID:2	Camera: sending image frame
+07:57.647	ID:4	Camera: sending image frame
+08:00.371	ID:8	Lightbulb: ON
+08:00.381	ID:8	Delta Energest - CPU: 10588 LPM: 317117 TX: 2986 RX: 4673
+08:00.535	ID:2	Camera: sending image frame
+08:00.545	ID:2	Delta Energest - CPU: 8960 LPM: 318693 TX: 2992 RX: 2527
+08:00.557	ID:6	Delta Energest - CPU: 18087 LPM: 309566 TX: 5991 RX: 4977
+08:00.648	ID:4	Camera: sending image frame
+08:00.657	ID:4	Delta Energest - CPU: 14429 LPM: 313306 TX: 5978 RX: 2788
+08:00.700	ID:7	Lightbulb: ON
+08:00.710	ID:7	Delta Energest - CPU: 16888 LPM: 310725 TX: 5981 RX: 4452
+08:01.015	ID:9	Delta Energest - CPU: 13670 LPM: 313984 TX: 2990 RX: 5667
+08:01.018	ID:9	Smart Plug: OFF - No power draw
+08:01.022	ID:5	Delta Energest - CPU: 17319 LPM: 310338 TX: 5982 RX: 4179
+08:01.199	ID:3	Thermostat Temp: -179C
+08:01.208	ID:3	Delta Energest - CPU: 20039 LPM: 307615 TX: 5982 RX: 5538
+08:02.024	ID:1	Delta Energest - CPU: 76877 LPM: 250617 TX: 15920 RX: 311587
+08:02.177	ID:10	Delta Energest - CPU: 19637 LPM: 307944 TX: 5989 RX: 6408
+08:03.535	ID:2	Camera: sending image frame
+08:03.648	ID:4	Camera: sending image frame
+08:06.199	ID:3	Thermostat Temp: -184C
+08:06.535	ID:2	Camera: sending image frame
+08:06.647	ID:4	Camera: sending image frame
+08:09.535	ID:2	Camera: sending image frame
+08:09.647	ID:4	Camera: sending image frame
+08:10.380	ID:8	Delta Energest - CPU: 10645 LPM: 316986 TX: 2991 RX: 4164
+08:10.381	ID:8	Lightbulb: ON
+08:10.542	ID:2	Delta Energest - CPU: 8614 LPM: 318896 TX: 2991 RX: 2315
+08:10.559	ID:6	Delta Energest - CPU: 18090 LPM: 309609 TX: 5981 RX: 4975
+08:10.655	ID:4	Delta Energest - CPU: 14605 LPM: 312989 TX: 5988 RX: 3168
+08:10.709	ID:7	Delta Energest - CPU: 17078 LPM: 310456 TX: 5980 RX: 5168
+08:10.710	ID:7	Lightbulb: ON
+08:11.015	ID:9	Delta Energest - CPU: 13226 LPM: 314419 TX: 2984 RX: 5041
+08:11.057	ID:5	Delta Energest - CPU: 16785 LPM: 312020 TX: 5983 RX: 3713
+08:11.202	ID:3	Thermostat Temp: -186C
+08:11.211	ID:3	Delta Energest - CPU: 20317 LPM: 307428 TX: 5982 RX: 6427
+08:12.022	ID:1	Delta Energest - CPU: 85456 LPM: 241943 TX: 13520 RX: 313943
+08:12.177	ID:10	Delta Energest - CPU: 20248 LPM: 307330 TX: 5982 RX: 7092
+08:12.535	ID:2	Camera: sending image frame
+08:12.647	ID:4	Camera: sending image frame
+08:15.535	ID:2	Camera: sending image frame
+08:15.647	ID:4	Camera: sending image frame
+08:16.008	ID:9	Smart Plug: ON - Device is drawing power
+08:16.199	ID:3	Thermostat Temp: -188C
+08:18.535	ID:2	Camera: sending image frame
+08:18.647	ID:4	Camera: sending image frame
+08:20.371	ID:8	Lightbulb: ON
+08:20.381	ID:8	Delta Energest - CPU: 15645 LPM: 312057 TX: 5986 RX: 5182
+08:20.543	ID:2	Delta Energest - CPU: 13443 LPM: 314143 TX: 5988 RX: 2561
+08:20.560	ID:6	Delta Energest - CPU: 17861 LPM: 309830 TX: 5991 RX: 4771
+08:20.655	ID:4	Delta Energest - CPU: 14436 LPM: 313224 TX: 5880 RX: 2603
+08:20.700	ID:7	Lightbulb: ON
+08:20.710	ID:7	Delta Energest - CPU: 16959 LPM: 310662 TX: 5981 RX: 4698
+08:21.017	ID:9	Delta Energest - CPU: 19234 LPM: 308482 TX: 5984 RX: 6811
+08:21.022	ID:5	Delta Energest - CPU: 12874 LPM: 313638 TX: 2992 RX: 4374
+08:21.199	ID:3	Thermostat Temp: -186C
+08:21.208	ID:3	Delta Energest - CPU: 25020 LPM: 302537 TX: 8976 RX: 6233
+08:21.535	ID:2	Camera: sending image frame
+08:21.647	ID:4	Camera: sending image frame
+08:22.021	ID:1	Delta Energest - CPU: 79150 LPM: 248229 TX: 13121 RX: 314345
+08:22.177	ID:10	Delta Energest - CPU: 19729 LPM: 307856 TX: 5470 RX: 6461
+08:24.535	ID:2	Camera: sending image frame
+08:24.647	ID:4	Camera: sending image frame
+08:26.199	ID:3	Thermostat Temp: -185C
+08:27.535	ID:2	Camera: sending image frame
+08:27.647	ID:4	Camera: sending image frame
+08:30.380	ID:8	Delta Energest - CPU: 15445 LPM: 312186 TX: 5988 RX: 4706
+08:30.381	ID:8	Lightbulb: ON
+08:30.535	ID:2	Camera: sending image frame
+08:30.545	ID:2	Delta Energest - CPU: 13460 LPM: 314197 TX: 5992 RX: 2620
+08:30.557	ID:6	Delta Energest - CPU: 17848 LPM: 309718 TX: 5986 RX: 4882
+08:30.648	ID:4	Camera: sending image frame
+08:30.657	ID:4	Delta Energest - CPU: 10023 LPM: 317711 TX: 2991 RX: 3052
+08:30.711	ID:7	Delta Energest - CPU: 17230 LPM: 310392 TX: 5979 RX: 5260
+08:30.712	ID:7	Lightbulb: ON
+08:31.018	ID:9	Delta Energest - CPU: 18689 LPM: 308988 TX: 5985 RX: 6482
+08:31.020	ID:9	Smart Plug: OFF - No power draw
+08:31.022	ID:5	Delta Energest - CPU: 17926 LPM: 309734 TX: 5984 RX: 4776
+08:31.199	ID:3	Thermostat Temp: -185C
+08:31.208	ID:3	Delta Energest - CPU: 20990 LPM: 306662 TX: 5980 RX: 6748
+08:32.018	ID:1	Delta Energest - CPU: 85852 LPM: 241523 TX: 15749 RX: 311651
+08:32.177	ID:10	Delta Energest - CPU: 20287 LPM: 307293 TX: 5982 RX: 7153
+08:33.535	ID:2	Camera: sending image frame
+08:33.647	ID:4	Camera: sending image frame
+08:36.199	ID:3	Thermostat Temp: -189C
+08:36.535	ID:2	Camera: sending image frame
+08:36.647	ID:4	Camera: sending image frame
+08:39.535	ID:2	Camera: sending image frame
+08:39.647	ID:4	Camera: sending image frame
+08:40.371	ID:8	Lightbulb: ON
+08:40.381	ID:8	Delta Energest - CPU: 15585 LPM: 312115 TX: 5986 RX: 4151
+08:40.557	ID:6	Delta Energest - CPU: 17694 LPM: 309960 TX: 5985 RX: 4710
+08:40.591	ID:2	Delta Energest - CPU: 13200 LPM: 315896 TX: 5985 RX: 2468
+08:40.655	ID:4	Delta Energest - CPU: 14567 LPM: 313022 TX: 5985 RX: 3120
+08:40.700	ID:7	Lightbulb: ON
+08:40.710	ID:7	Delta Energest - CPU: 16571 LPM: 310963 TX: 5981 RX: 4310
+08:41.015	ID:9	Delta Energest - CPU: 18118 LPM: 309438 TX: 5981 RX: 5428
+08:41.022	ID:5	Delta Energest - CPU: 17239 LPM: 310418 TX: 5986 RX: 4172
+08:41.199	ID:3	Thermostat Temp: -194C
+08:41.208	ID:3	Delta Energest - CPU: 15218 LPM: 312441 TX: 2992 RX: 5466
+08:42.022	ID:1	Delta Energest - CPU: 74917 LPM: 252668 TX: 12327 RX: 315345
+08:42.177	ID:10	Delta Energest - CPU: 19282 LPM: 308284 TX: 5993 RX: 6335
+08:42.535	ID:2	Camera: sending image frame
+08:42.647	ID:4	Camera: sending image frame
+08:45.535	ID:2	Camera: sending image frame
+08:45.647	ID:4	Camera: sending image frame
+08:46.008	ID:9	Smart Plug: ON - Device is drawing power
+08:46.199	ID:3	Thermostat Temp: -194C
+08:48.535	ID:2	Camera: sending image frame
+08:48.647	ID:4	Camera: sending image frame
+08:50.380	ID:8	Delta Energest - CPU: 15725 LPM: 311897 TX: 5982 RX: 4842
+08:50.381	ID:8	Lightbulb: ON
+08:50.542	ID:2	Delta Energest - CPU: 8830 LPM: 317167 TX: 2993 RX: 2481
+08:50.557	ID:6	Delta Energest - CPU: 12792 LPM: 314864 TX: 2993 RX: 3938
+08:50.655	ID:4	Delta Energest - CPU: 13987 LPM: 313675 TX: 5984 RX: 2419
+08:50.709	ID:7	Delta Energest - CPU: 15748 LPM: 311797 TX: 5987 RX: 3562
+08:50.710	ID:7	Lightbulb: ON
+08:51.015	ID:9	Delta Energest - CPU: 18685 LPM: 308970 TX: 5987 RX: 5982
+08:51.022	ID:5	Delta Energest - CPU: 16534 LPM: 311117 TX: 5988 RX: 3462
+08:51.199	ID:3	Thermostat Temp: -192C
+08:51.208	ID:3	Delta Energest - CPU: 20031 LPM: 307625 TX: 5982 RX: 5746
+08:51.535	ID:2	Camera: sending image frame
+08:51.648	ID:4	Camera: sending image frame
+08:52.019	ID:1	Delta Energest - CPU: 76249 LPM: 251094 TX: 9686 RX: 317772
+08:52.177	ID:10	Delta Energest - CPU: 19811 LPM: 307767 TX: 5995 RX: 6737
+08:54.535	ID:2	Camera: sending image frame
+08:54.647	ID:4	Camera: sending image frame
+08:56.199	ID:3	Thermostat Temp: -193C
+08:57.535	ID:2	Camera: sending image frame
+08:57.647	ID:4	Camera: sending image frame
+09:00.389	ID:8	Lightbulb: ON
+09:00.399	ID:8	Delta Energest - CPU: 15575 LPM: 312717 TX: 5990 RX: 4558
+09:00.535	ID:2	Camera: sending image frame
+09:00.545	ID:2	Delta Energest - CPU: 13270 LPM: 314386 TX: 5987 RX: 2271
+09:00.560	ID:6	Delta Energest - CPU: 17459 LPM: 310287 TX: 5984 RX: 4553
+09:00.648	ID:4	Camera: sending image frame
+09:00.657	ID:4	Delta Energest - CPU: 14461 LPM: 313266 TX: 5983 RX: 3212
+09:00.701	ID:7	Lightbulb: ON
+09:00.711	ID:7	Delta Energest - CPU: 16724 LPM: 310922 TX: 5984 RX: 4664
+09:01.015	ID:9	Delta Energest - CPU: 14091 LPM: 313564 TX: 2993 RX: 5842
+09:01.018	ID:9	Smart Plug: OFF - No power draw
+09:01.022	ID:5	Delta Energest - CPU: 17102 LPM: 310557 TX: 5988 RX: 4229
+09:01.199	ID:3	Thermostat Temp: -195C
+09:01.208	ID:3	Delta Energest - CPU: 20216 LPM: 307443 TX: 5986 RX: 5962
+09:02.025	ID:1	Delta Energest - CPU: 80120 LPM: 247533 TX: 16246 RX: 311453
+09:02.177	ID:10	Delta Energest - CPU: 20180 LPM: 307400 TX: 5981 RX: 7327
+09:03.535	ID:2	Camera: sending image frame
+09:03.647	ID:4	Camera: sending image frame
+09:06.199	ID:3	Thermostat Temp: -201C
+09:06.535	ID:2	Camera: sending image frame
+09:06.647	ID:4	Camera: sending image frame
+09:09.535	ID:2	Camera: sending image frame
+09:09.647	ID:4	Camera: sending image frame
+09:10.380	ID:8	Delta Energest - CPU: 11214 LPM: 315827 TX: 2994 RX: 5334
+09:10.381	ID:8	Lightbulb: ON
+09:10.542	ID:2	Delta Energest - CPU: 8994 LPM: 318514 TX: 2993 RX: 2867
+09:10.557	ID:6	Delta Energest - CPU: 17990 LPM: 309581 TX: 5983 RX: 4924
+09:10.655	ID:4	Delta Energest - CPU: 9606 LPM: 317983 TX: 2991 RX: 2812
+09:10.709	ID:7	Delta Energest - CPU: 16962 LPM: 310549 TX: 5983 RX: 4908
+09:10.710	ID:7	Lightbulb: ON
+09:11.015	ID:9	Delta Energest - CPU: 18287 LPM: 309366 TX: 5983 RX: 5888
+09:11.022	ID:5	Delta Energest - CPU: 17328 LPM: 310330 TX: 5982 RX: 4081
+09:11.199	ID:3	Thermostat Temp: -206C
+09:11.208	ID:3	Delta Energest - CPU: 20715 LPM: 306946 TX: 5982 RX: 6480
+09:12.022	ID:1	Delta Energest - CPU: 83528 LPM: 243863 TX: 16885 RX: 310527
+09:12.177	ID:10	Delta Energest - CPU: 14726 LPM: 312850 TX: 2990 RX: 6272
+09:12.535	ID:2	Camera: sending image frame
+09:12.647	ID:4	Camera: sending image frame
+09:15.535	ID:2	Camera: sending image frame
+09:15.647	ID:4	Camera: sending image frame
+09:16.008	ID:9	Smart Plug: ON - Device is drawing power
+09:16.199	ID:3	Thermostat Temp: -208C
+09:18.535	ID:2	Camera: sending image frame
+09:18.647	ID:4	Camera: sending image frame
+09:20.371	ID:8	Lightbulb: ON
+09:20.381	ID:8	Delta Energest - CPU: 15489 LPM: 312214 TX: 5982 RX: 4437
+09:20.543	ID:2	Delta Energest - CPU: 13426 LPM: 314160 TX: 5987 RX: 2568
+09:20.557	ID:6	Delta Energest - CPU: 17525 LPM: 310129 TX: 5988 RX: 4432
+09:20.655	ID:4	Delta Energest - CPU: 10009 LPM: 317650 TX: 2993 RX: 3088
+09:20.700	ID:7	Lightbulb: ON
+09:20.710	ID:7	Delta Energest - CPU: 12324 LPM: 315293 TX: 2991 RX: 4693
+09:21.015	ID:9	Delta Energest - CPU: 14384 LPM: 313274 TX: 2992 RX: 6231
+09:21.022	ID:5	Delta Energest - CPU: 17331 LPM: 310328 TX: 5979 RX: 4214
+09:21.199	ID:3	Thermostat Temp: -208C
+09:21.208	ID:3	Delta Energest - CPU: 20220 LPM: 307435 TX: 5983 RX: 6389
+09:21.535	ID:2	Camera: sending image frame
+09:21.647	ID:4	Camera: sending image frame
+09:22.024	ID:1	Delta Energest - CPU: 84186 LPM: 243326 TX: 16791 RX: 310739
+09:22.177	ID:10	Delta Energest - CPU: 20556 LPM: 307015 TX: 5985 RX: 7795
+09:24.535	ID:2	Camera: sending image frame
+09:24.647	ID:4	Camera: sending image frame
+09:26.199	ID:3	Thermostat Temp: -209C
+09:27.535	ID:2	Camera: sending image frame
+09:27.647	ID:4	Camera: sending image frame
+09:30.380	ID:8	Delta Energest - CPU: 15914 LPM: 311719 TX: 5986 RX: 5153
+09:30.381	ID:8	Lightbulb: ON
+09:30.535	ID:2	Camera: sending image frame
+09:30.545	ID:2	Delta Energest - CPU: 13496 LPM: 314166 TX: 5992 RX: 2604
+09:30.557	ID:6	Delta Energest - CPU: 18578 LPM: 309076 TX: 5990 RX: 5742
+09:30.648	ID:4	Camera: sending image frame
+09:30.657	ID:4	Delta Energest - CPU: 19050 LPM: 308686 TX: 8980 RX: 2815
+09:30.709	ID:7	Delta Energest - CPU: 21181 LPM: 306368 TX: 8980 RX: 4392
+09:30.710	ID:7	Lightbulb: ON
+09:31.015	ID:9	Delta Energest - CPU: 18391 LPM: 309260 TX: 5984 RX: 6350
+09:31.018	ID:9	Smart Plug: OFF - No power draw
+09:31.022	ID:5	Delta Energest - CPU: 18171 LPM: 309483 TX: 5985 RX: 5394
+09:31.199	ID:3	Thermostat Temp: -212C
+09:31.208	ID:3	Delta Energest - CPU: 21211 LPM: 306439 TX: 5981 RX: 6805
+09:32.024	ID:1	Delta Energest - CPU: 91578 LPM: 235828 TX: 15370 RX: 312119
+09:32.177	ID:10	Delta Energest - CPU: 20199 LPM: 307377 TX: 5980 RX: 7431
+09:33.535	ID:2	Camera: sending image frame
+09:33.647	ID:4	Camera: sending image frame
+09:36.199	ID:3	Thermostat Temp: -214C
+09:36.535	ID:2	Camera: sending image frame
+09:36.647	ID:4	Camera: sending image frame
+09:39.535	ID:2	Camera: sending image frame
+09:39.647	ID:4	Camera: sending image frame
+09:40.371	ID:8	Lightbulb: ON
+09:40.381	ID:8	Delta Energest - CPU: 11247 LPM: 316451 TX: 2992 RX: 5090
+09:40.543	ID:2	Delta Energest - CPU: 13477 LPM: 314036 TX: 5980 RX: 2559
+09:40.557	ID:6	Delta Energest - CPU: 17920 LPM: 309733 TX: 5977 RX: 4737
+09:40.655	ID:4	Delta Energest - CPU: 10089 LPM: 317497 TX: 2989 RX: 3066
+09:40.700	ID:7	Lightbulb: ON
+09:40.710	ID:7	Delta Energest - CPU: 16810 LPM: 310810 TX: 5987 RX: 4880
+09:41.015	ID:9	Delta Energest - CPU: 18739 LPM: 308905 TX: 5985 RX: 6206
+09:41.022	ID:5	Delta Energest - CPU: 17090 LPM: 310567 TX: 5984 RX: 4165
+09:41.199	ID:3	Thermostat Temp: -212C
+09:41.208	ID:3	Delta Energest - CPU: 20195 LPM: 307449 TX: 5984 RX: 6133
+09:42.044	ID:1	Delta Energest - CPU: 87030 LPM: 241080 TX: 17196 RX: 310951
+09:42.177	ID:10	Delta Energest - CPU: 20028 LPM: 307546 TX: 5986 RX: 7245
+09:42.535	ID:2	Camera: sending image frame
+09:42.647	ID:4	Camera: sending image frame
+09:45.535	ID:2	Camera: sending image frame
+09:45.647	ID:4	Camera: sending image frame
+09:46.008	ID:9	Smart Plug: ON - Device is drawing power
+09:46.199	ID:3	Thermostat Temp: -210C
+09:48.535	ID:2	Camera: sending image frame
+09:48.647	ID:4	Camera: sending image frame
+09:50.380	ID:8	Delta Energest - CPU: 16014 LPM: 311602 TX: 5984 RX: 4899
+09:50.381	ID:8	Lightbulb: ON
+09:50.543	ID:2	Delta Energest - CPU: 13199 LPM: 314393 TX: 5981 RX: 2272
+09:50.557	ID:6	Delta Energest - CPU: 18172 LPM: 309473 TX: 5989 RX: 5278
+09:50.655	ID:4	Delta Energest - CPU: 14397 LPM: 313266 TX: 5986 RX: 3191
+09:50.709	ID:7	Delta Energest - CPU: 16639 LPM: 310898 TX: 5986 RX: 4585
+09:50.710	ID:7	Lightbulb: ON
+09:51.015	ID:9	Delta Energest - CPU: 19006 LPM: 308637 TX: 5985 RX: 6777
+09:51.022	ID:5	Delta Energest - CPU: 17609 LPM: 310042 TX: 5983 RX: 4596
+09:51.199	ID:3	Thermostat Temp: -216C
+09:51.208	ID:3	Delta Energest - CPU: 19988 LPM: 307672 TX: 5978 RX: 5859
+09:51.535	ID:2	Camera: sending image frame
+09:51.647	ID:4	Camera: sending image frame
+09:52.024	ID:1	Delta Energest - CPU: 85109 LPM: 241705 TX: 16716 RX: 310112
+09:52.177	ID:10	Delta Energest - CPU: 20184 LPM: 307392 TX: 5984 RX: 7612
+09:54.535	ID:2	Camera: sending image frame
+09:54.647	ID:4	Camera: sending image frame
+09:56.199	ID:3	Thermostat Temp: -220C
+09:57.535	ID:2	Camera: sending image frame
+09:57.647	ID:4	Camera: sending image frame
+10:00.371	ID:8	Lightbulb: ON
+10:00.381	ID:8	Delta Energest - CPU: 15440 LPM: 312262 TX: 5985 RX: 4237
+10:00.535	ID:2	Camera: sending image frame
+10:00.545	ID:2	Delta Energest - CPU: 8838 LPM: 318816 TX: 2995 RX: 2462
+10:00.557	ID:6	Delta Energest - CPU: 18085 LPM: 309571 TX: 5985 RX: 4892
+10:00.648	ID:4	Camera: sending image frame
+10:00.657	ID:4	Delta Energest - CPU: 14625 LPM: 313106 TX: 5984 RX: 2984
+10:00.700	ID:7	Lightbulb: ON
+10:00.710	ID:7	Delta Energest - CPU: 17064 LPM: 310551 TX: 5984 RX: 4894
+10:01.015	ID:9	Delta Energest - CPU: 13466 LPM: 314191 TX: 2999 RX: 5743
+10:01.018	ID:9	Smart Plug: OFF - No power draw
+10:01.022	ID:5	Delta Energest - CPU: 18056 LPM: 309600 TX: 5988 RX: 5016
+10:01.199	ID:3	Thermostat Temp: -224C
+10:01.208	ID:3	Delta Energest - CPU: 20951 LPM: 306706 TX: 5988 RX: 6539
+10:02.024	ID:1	Delta Energest - CPU: 82629 LPM: 244812 TX: 14563 RX: 312927
+10:02.177	ID:10	Delta Energest - CPU: 19704 LPM: 307862 TX: 5983 RX: 6276
+10:03.535	ID:2	Camera: sending image frame
+10:03.647	ID:4	Camera: sending image frame
+10:06.199	ID:3	Thermostat Temp: -227C
+10:06.535	ID:2	Camera: sending image frame
+10:06.647	ID:4	Camera: sending image frame
+10:09.535	ID:2	Camera: sending image frame
+10:09.648	ID:4	Camera: sending image frame
+10:10.380	ID:8	Delta Energest - CPU: 15764 LPM: 311860 TX: 5987 RX: 4721
+10:10.381	ID:8	Lightbulb: ON
+10:10.543	ID:2	Delta Energest - CPU: 12961 LPM: 314586 TX: 5981 RX: 2075
+10:10.557	ID:6	Delta Energest - CPU: 17223 LPM: 310437 TX: 5983 RX: 4345
+10:10.655	ID:4	Delta Energest - CPU: 9880 LPM: 317683 TX: 2993 RX: 3047
+10:10.709	ID:7	Delta Energest - CPU: 11784 LPM: 315765 TX: 2983 RX: 4143
+10:10.710	ID:7	Lightbulb: ON
+10:11.015	ID:9	Delta Energest - CPU: 18481 LPM: 309155 TX: 5984 RX: 5695
+10:11.022	ID:5	Delta Energest - CPU: 17572 LPM: 310084 TX: 5982 RX: 3597
+10:11.206	ID:3	Thermostat Temp: -233C
+10:11.215	ID:3	Delta Energest - CPU: 25796 LPM: 302047 TX: 8972 RX: 5934
+10:12.022	ID:1	Delta Energest - CPU: 84014 LPM: 243357 TX: 12327 RX: 315165
+10:12.177	ID:10	Delta Energest - CPU: 19579 LPM: 308002 TX: 5984 RX: 6872
+10:12.535	ID:2	Camera: sending image frame
+10:12.647	ID:4	Camera: sending image frame
+10:15.535	ID:2	Camera: sending image frame
+10:15.647	ID:4	Camera: sending image frame
+10:16.008	ID:9	Smart Plug: ON - Device is drawing power
+10:16.199	ID:3	Thermostat Temp: -236C
+10:18.535	ID:2	Camera: sending image frame
+10:18.647	ID:4	Camera: sending image frame
+10:20.371	ID:8	Lightbulb: ON
+10:20.381	ID:8	Delta Energest - CPU: 15201 LPM: 312493 TX: 5995 RX: 4435
+10:20.543	ID:2	Delta Energest - CPU: 13433 LPM: 314230 TX: 5988 RX: 2627
+10:20.557	ID:6	Delta Energest - CPU: 17497 LPM: 310151 TX: 5982 RX: 4706
+10:20.655	ID:4	Delta Energest - CPU: 14332 LPM: 313330 TX: 5993 RX: 3243
+10:20.700	ID:7	Lightbulb: ON
+10:20.710	ID:7	Delta Energest - CPU: 16223 LPM: 311402 TX: 5982 RX: 4170
+10:21.015	ID:9	Delta Energest - CPU: 18162 LPM: 309428 TX: 5987 RX: 5951
+10:21.022	ID:5	Delta Energest - CPU: 13751 LPM: 313912 TX: 2991 RX: 4707
+10:21.199	ID:3	Thermostat Temp: -240C
+10:21.208	ID:3	Delta Energest - CPU: 15589 LPM: 311779 TX: 2996 RX: 5040
+10:21.535	ID:2	Camera: sending image frame
+10:21.647	ID:4	Camera: sending image frame
+10:22.024	ID:1	Delta Energest - CPU: 68846 LPM: 258735 TX: 12642 RX: 314936
+10:22.177	ID:10	Delta Energest - CPU: 19442 LPM: 308155 TX: 5988 RX: 6046
+10:24.535	ID:2	Camera: sending image frame
+10:24.647	ID:4	Camera: sending image frame
+10:26.199	ID:3	Thermostat Temp: -245C
+10:27.535	ID:2	Camera: sending image frame
+10:27.647	ID:4	Camera: sending image frame
+10:30.380	ID:8	Delta Energest - CPU: 10672 LPM: 316949 TX: 2991 RX: 4618
+10:30.381	ID:8	Lightbulb: ON
+10:30.535	ID:2	Camera: sending image frame
+10:30.545	ID:2	Delta Energest - CPU: 13220 LPM: 314513 TX: 5985 RX: 2474
+10:30.557	ID:6	Delta Energest - CPU: 17601 LPM: 310058 TX: 5987 RX: 5072
+10:30.648	ID:4	Camera: sending image frame
+10:30.657	ID:4	Delta Energest - CPU: 14562 LPM: 313169 TX: 5990 RX: 3268
+10:30.709	ID:7	Delta Energest - CPU: 16570 LPM: 310984 TX: 5986 RX: 4614
+10:30.710	ID:7	Lightbulb: ON
+10:31.015	ID:9	Delta Energest - CPU: 19287 LPM: 308317 TX: 6055 RX: 6526
+10:31.018	ID:9	Smart Plug: OFF - No power draw
+10:31.022	ID:5	Delta Energest - CPU: 18188 LPM: 309477 TX: 5989 RX: 4437
+10:31.205	ID:3	Thermostat Temp: -247C
+10:31.214	ID:3	Delta Energest - CPU: 21068 LPM: 306723 TX: 5983 RX: 6571
+10:32.042	ID:1	Delta Energest - CPU: 91828 LPM: 236150 TX: 17459 RX: 310610
+10:32.177	ID:10	Delta Energest - CPU: 20882 LPM: 306773 TX: 6057 RX: 8041
+10:33.535	ID:2	Camera: sending image frame
+10:33.647	ID:4	Camera: sending image frame
+10:36.199	ID:3	Thermostat Temp: -248C
+10:36.535	ID:2	Camera: sending image frame
+10:36.647	ID:4	Camera: sending image frame
+10:39.535	ID:2	Camera: sending image frame
+10:39.648	ID:4	Camera: sending image frame
+10:40.371	ID:8	Lightbulb: ON
+10:40.381	ID:8	Delta Energest - CPU: 20538 LPM: 307159 TX: 8978 RX: 5175
+10:40.542	ID:2	Delta Energest - CPU: 8432 LPM: 319161 TX: 2996 RX: 2394
+10:40.557	ID:6	Delta Energest - CPU: 19099 LPM: 308552 TX: 6129 RX: 5483
+10:40.655	ID:4	Delta Energest - CPU: 14318 LPM: 313273 TX: 5977 RX: 2952
+10:40.700	ID:7	Lightbulb: ON
+10:40.710	ID:7	Delta Energest - CPU: 17256 LPM: 310409 TX: 6057 RX: 4709
+10:41.015	ID:9	Delta Energest - CPU: 21243 LPM: 306396 TX: 6483 RX: 7146
+10:41.022	ID:5	Delta Energest - CPU: 18322 LPM: 309341 TX: 5983 RX: 4498
+10:41.199	ID:3	Thermostat Temp: -254C
+10:41.208	ID:3	Delta Energest - CPU: 20114 LPM: 307290 TX: 5986 RX: 6546
+10:42.044	ID:1	Delta Energest - CPU: 91407 LPM: 236148 TX: 17799 RX: 309771
+10:42.177	ID:10	Delta Energest - CPU: 20240 LPM: 307404 TX: 6057 RX: 7028
+10:42.535	ID:2	Camera: sending image frame
+10:42.647	ID:4	Camera: sending image frame
+10:45.535	ID:2	Camera: sending image frame
+10:45.647	ID:4	Camera: sending image frame
+10:46.008	ID:9	Smart Plug: ON - Device is drawing power
+10:46.199	ID:3	Thermostat Temp: -256C
+10:48.537	ID:2	Camera: sending image frame
+10:48.647	ID:4	Camera: sending image frame
+10:50.380	ID:8	Delta Energest - CPU: 12231 LPM: 315398 TX: 3131 RX: 4727
+10:50.381	ID:8	Lightbulb: ON
+10:50.542	ID:2	Delta Energest - CPU: 8788 LPM: 318873 TX: 2992 RX: 2606
+10:50.557	ID:6	Delta Energest - CPU: 12231 LPM: 315427 TX: 2995 RX: 3775
+10:50.655	ID:4	Delta Energest - CPU: 14083 LPM: 313580 TX: 5993 RX: 2587
+10:50.709	ID:7	Delta Energest - CPU: 17439 LPM: 310189 TX: 6060 RX: 5021
+10:50.710	ID:7	Lightbulb: ON
+10:51.022	ID:5	Delta Energest - CPU: 17476 LPM: 310188 TX: 5982 RX: 3785
+10:51.145	ID:9	Delta Energest - CPU: 18726 LPM: 313168 TX: 5980 RX: 6033
+10:51.199	ID:3	Thermostat Temp: -259C
+10:51.208	ID:3	Delta Energest - CPU: 21997 LPM: 305627 TX: 6123 RX: 6079
+10:51.535	ID:2	Camera: sending image frame
+10:51.648	ID:4	Camera: sending image frame
+10:52.017	ID:1	Delta Energest - CPU: 88651 LPM: 237867 TX: 17063 RX: 309525
+10:52.177	ID:10	Delta Energest - CPU: 19505 LPM: 308148 TX: 5989 RX: 6429
+10:54.535	ID:2	Camera: sending image frame
+10:54.647	ID:4	Camera: sending image frame
+10:56.199	ID:3	Thermostat Temp: -260C
+10:57.535	ID:2	Camera: sending image frame
+10:57.647	ID:4	Camera: sending image frame
+11:00.371	ID:8	Lightbulb: ON
+11:00.381	ID:8	Delta Energest - CPU: 15989 LPM: 311712 TX: 5986 RX: 4998
+11:00.535	ID:2	Camera: sending image frame
+11:00.545	ID:2	Delta Energest - CPU: 13464 LPM: 314272 TX: 5982 RX: 2563
+11:00.557	ID:6	Delta Energest - CPU: 18382 LPM: 309268 TX: 5984 RX: 5483
+11:00.648	ID:4	Camera: sending image frame
+11:00.657	ID:4	Delta Energest - CPU: 14538 LPM: 313193 TX: 5983 RX: 3009
+11:00.703	ID:7	Lightbulb: ON
+11:00.712	ID:7	Delta Energest - CPU: 17457 LPM: 310323 TX: 5989 RX: 5594
+11:01.020	ID:9	Delta Energest - CPU: 18596 LPM: 304877 TX: 5991 RX: 7157
+11:01.022	ID:5	Delta Energest - CPU: 20678 LPM: 306972 TX: 6132 RX: 6036
+11:01.022	ID:9	Smart Plug: OFF - No power draw
+11:01.199	ID:3	Thermostat Temp: -264C
+11:01.208	ID:3	Delta Energest - CPU: 21638 LPM: 306023 TX: 5982 RX: 6862
+11:02.023	ID:1	Delta Energest - CPU: 99382 LPM: 228218 TX: 17863 RX: 309820
+11:02.177	ID:10	Delta Energest - CPU: 20043 LPM: 307610 TX: 5983 RX: 7160
+11:03.535	ID:2	Camera: sending image frame
+11:03.647	ID:4	Camera: sending image frame
+11:06.199	ID:3	Thermostat Temp: -262C
+11:06.535	ID:2	Camera: sending image frame
+11:06.647	ID:4	Camera: sending image frame
+11:09.535	ID:2	Camera: sending image frame
+11:09.647	ID:4	Camera: sending image frame
+11:10.380	ID:8	Delta Energest - CPU: 15658 LPM: 311972 TX: 5989 RX: 4606
+11:10.381	ID:8	Lightbulb: ON
+11:10.543	ID:2	Delta Energest - CPU: 13476 LPM: 314114 TX: 5980 RX: 2661
+11:10.557	ID:6	Delta Energest - CPU: 17976 LPM: 309675 TX: 5988 RX: 4940
+11:10.655	ID:4	Delta Energest - CPU: 14487 LPM: 313101 TX: 5984 RX: 3162
+11:10.709	ID:7	Delta Energest - CPU: 16501 LPM: 311036 TX: 5990 RX: 4284
+11:10.710	ID:7	Lightbulb: ON
+11:11.015	ID:9	Delta Energest - CPU: 18555 LPM: 308869 TX: 5986 RX: 6562
+11:11.022	ID:5	Delta Energest - CPU: 18530 LPM: 309119 TX: 5983 RX: 5222
+11:11.199	ID:3	Thermostat Temp: -262C
+11:11.208	ID:3	Delta Energest - CPU: 21348 LPM: 306301 TX: 5987 RX: 6340
+11:12.019	ID:1	Delta Energest - CPU: 92114 LPM: 235169 TX: 17676 RX: 309672
+11:12.177	ID:10	Delta Energest - CPU: 20346 LPM: 307313 TX: 5990 RX: 7828
+11:12.535	ID:2	Camera: sending image frame
+11:12.647	ID:4	Camera: sending image frame
+11:15.535	ID:2	Camera: sending image frame
+11:15.647	ID:4	Camera: sending image frame
+11:16.008	ID:9	Smart Plug: ON - Device is drawing power
+11:16.199	ID:3	Thermostat Temp: -268C
+11:18.535	ID:2	Camera: sending image frame
+11:18.647	ID:4	Camera: sending image frame
+11:20.371	ID:8	Lightbulb: ON
+11:20.381	ID:8	Delta Energest - CPU: 15850 LPM: 311849 TX: 5988 RX: 4880
+11:20.543	ID:2	Delta Energest - CPU: 13162 LPM: 314497 TX: 5980 RX: 2314
+11:20.557	ID:6	Delta Energest - CPU: 18385 LPM: 309262 TX: 5988 RX: 5678
+11:20.655	ID:4	Delta Energest - CPU: 14491 LPM: 313170 TX: 5990 RX: 2874
+11:20.700	ID:7	Lightbulb: ON
+11:20.710	ID:7	Delta Energest - CPU: 17139 LPM: 310543 TX: 5986 RX: 5064
+11:21.015	ID:9	Delta Energest - CPU: 19080 LPM: 308493 TX: 5983 RX: 7205
+11:21.022	ID:5	Delta Energest - CPU: 18923 LPM: 308736 TX: 5980 RX: 5652
+11:21.202	ID:3	Thermostat Temp: -273C
+11:21.212	ID:3	Delta Energest - CPU: 25998 LPM: 301764 TX: 8976 RX: 6676
+11:21.535	ID:2	Camera: sending image frame
+11:21.647	ID:4	Camera: sending image frame
+11:22.024	ID:1	Delta Energest - CPU: 89310 LPM: 238296 TX: 17109 RX: 310514
+11:22.177	ID:10	Delta Energest - CPU: 19510 LPM: 308139 TX: 5989 RX: 7052
+11:24.535	ID:2	Camera: sending image frame
+11:24.785	ID:4	Camera: sending image frame
+11:26.199	ID:3	Thermostat Temp: -275C
+11:27.535	ID:2	Camera: sending image frame
+11:27.647	ID:4	Camera: sending image frame
+11:30.380	ID:8	Delta Energest - CPU: 14783 LPM: 312851 TX: 5983 RX: 3822
+11:30.381	ID:8	Lightbulb: ON
+11:30.535	ID:2	Camera: sending image frame
+11:30.545	ID:2	Delta Energest - CPU: 8889 LPM: 318846 TX: 2995 RX: 2602
+11:30.557	ID:6	Delta Energest - CPU: 17995 LPM: 309664 TX: 5986 RX: 5319
+11:30.648	ID:4	Camera: sending image frame
+11:30.657	ID:4	Delta Energest - CPU: 14758 LPM: 312976 TX: 5985 RX: 3235
+11:30.709	ID:7	Delta Energest - CPU: 16904 LPM: 310721 TX: 5989 RX: 4676
+11:30.710	ID:7	Lightbulb: ON
+11:31.015	ID:9	Delta Energest - CPU: 13605 LPM: 313981 TX: 2992 RX: 5882
+11:31.018	ID:9	Smart Plug: OFF - No power draw
+11:31.022	ID:5	Delta Energest - CPU: 18158 LPM: 309502 TX: 5985 RX: 4541
+11:31.206	ID:3	Thermostat Temp: -280C
+11:31.215	ID:3	Delta Energest - CPU: 21539 LPM: 306239 TX: 5979 RX: 6860
+11:32.020	ID:1	Delta Energest - CPU: 87819 LPM: 239494 TX: 16479 RX: 310902
+11:32.177	ID:10	Delta Energest - CPU: 19753 LPM: 307897 TX: 5983 RX: 7334
+11:33.535	ID:2	Camera: sending image frame
+11:33.647	ID:4	Camera: sending image frame
+11:36.199	ID:3	Thermostat Temp: -282C
+11:36.535	ID:2	Camera: sending image frame
+11:36.647	ID:4	Camera: sending image frame
+11:39.535	ID:2	Camera: sending image frame
+11:39.647	ID:4	Camera: sending image frame
+11:40.371	ID:8	Lightbulb: ON
+11:40.381	ID:8	Delta Energest - CPU: 15786 LPM: 311916 TX: 5984 RX: 4824
+11:40.543	ID:2	Delta Energest - CPU: 13405 LPM: 314185 TX: 5987 RX: 2638
+11:40.557	ID:6	Delta Energest - CPU: 17674 LPM: 309985 TX: 5991 RX: 4884
+11:40.655	ID:4	Delta Energest - CPU: 14331 LPM: 313262 TX: 5987 RX: 3016
+11:40.700	ID:7	Lightbulb: ON
+11:40.710	ID:7	Delta Energest - CPU: 16298 LPM: 311402 TX: 5977 RX: 4028
+11:41.015	ID:9	Delta Energest - CPU: 18778 LPM: 308805 TX: 5990 RX: 7041
+11:41.022	ID:5	Delta Energest - CPU: 18508 LPM: 309150 TX: 5984 RX: 5439
+11:41.199	ID:3	Thermostat Temp: -284C
+11:41.208	ID:3	Delta Energest - CPU: 20254 LPM: 307187 TX: 5989 RX: 5276
+11:42.022	ID:1	Delta Energest - CPU: 89302 LPM: 238202 TX: 18155 RX: 309365
+11:42.177	ID:10	Delta Energest - CPU: 20093 LPM: 307559 TX: 5989 RX: 7420
+11:42.535	ID:2	Camera: sending image frame
+11:42.647	ID:4	Camera: sending image frame
+11:45.535	ID:2	Camera: sending image frame
+11:45.647	ID:4	Camera: sending image frame
+11:46.008	ID:9	Smart Plug: ON - Device is drawing power
+11:46.199	ID:3	Thermostat Temp: -289C
+11:48.535	ID:2	Camera: sending image frame
+11:48.647	ID:4	Camera: sending image frame
+11:50.380	ID:8	Delta Energest - CPU: 15623 LPM: 311996 TX: 5990 RX: 5132
+11:50.381	ID:8	Lightbulb: ON
+11:50.543	ID:2	Delta Energest - CPU: 13476 LPM: 314185 TX: 5986 RX: 2563
+11:50.557	ID:6	Delta Energest - CPU: 17757 LPM: 309892 TX: 5987 RX: 4768
+11:50.655	ID:4	Delta Energest - CPU: 13868 LPM: 313794 TX: 5985 RX: 2418
+11:50.709	ID:7	Delta Energest - CPU: 16422 LPM: 311200 TX: 5986 RX: 4611
+11:50.710	ID:7	Lightbulb: ON
+11:51.015	ID:9	Delta Energest - CPU: 23585 LPM: 303991 TX: 8970 RX: 6400
+11:51.022	ID:5	Delta Energest - CPU: 17845 LPM: 309816 TX: 5991 RX: 4379
+11:51.200	ID:3	Thermostat Temp: -295C
+11:51.210	ID:3	Delta Energest - CPU: 20815 LPM: 306884 TX: 5985 RX: 6586
+11:51.535	ID:2	Camera: sending image frame
+11:51.647	ID:4	Camera: sending image frame
+11:52.039	ID:1	Delta Energest - CPU: 82491 LPM: 245516 TX: 13682 RX: 314412
+11:52.177	ID:10	Delta Energest - CPU: 20358 LPM: 307220 TX: 5982 RX: 7100
+11:54.535	ID:2	Camera: sending image frame
+11:54.647	ID:4	Camera: sending image frame
+11:56.199	ID:3	Thermostat Temp: -295C
+11:57.535	ID:2	Camera: sending image frame
+11:57.647	ID:4	Camera: sending image frame
+12:00.371	ID:8	Lightbulb: ON
+12:00.381	ID:8	Delta Energest - CPU: 15746 LPM: 311952 TX: 5987 RX: 4957
+12:00.535	ID:2	Camera: sending image frame
+12:00.545	ID:2	Delta Energest - CPU: 13242 LPM: 314491 TX: 5986 RX: 2504
+12:00.559	ID:6	Delta Energest - CPU: 17908 LPM: 309778 TX: 5980 RX: 5110
+12:00.648	ID:4	Camera: sending image frame
+12:00.657	ID:4	Delta Energest - CPU: 14302 LPM: 313436 TX: 5987 RX: 2798
+12:00.700	ID:7	Lightbulb: ON
+12:00.710	ID:7	Delta Energest - CPU: 21699 LPM: 305994 TX: 8974 RX: 5341
+12:01.019	ID:9	Delta Energest - CPU: 18835 LPM: 308857 TX: 5987 RX: 7010
+12:01.021	ID:9	Smart Plug: OFF - No power draw
+12:01.022	ID:5	Delta Energest - CPU: 18570 LPM: 309091 TX: 5988 RX: 5122
+12:01.204	ID:3	Thermostat Temp: -301C
+12:01.214	ID:3	Delta Energest - CPU: 21416 LPM: 306370 TX: 5983 RX: 7582
+12:02.025	ID:1	Delta Energest - CPU: 95334 LPM: 231652 TX: 20153 RX: 306847
+12:02.177	ID:10	Delta Energest - CPU: 20971 LPM: 306621 TX: 5990 RX: 7140
+12:03.544	ID:2	Camera: sending image frame
+12:03.647	ID:4	Camera: sending image frame
+12:06.203	ID:3	Thermostat Temp: -302C
+12:06.535	ID:2	Camera: sending image frame
+12:06.647	ID:4	Camera: sending image frame
+12:09.535	ID:2	Camera: sending image frame
+12:09.647	ID:4	Camera: sending image frame
+12:10.380	ID:8	Delta Energest - CPU: 20312 LPM: 307310 TX: 8977 RX: 4989
+12:10.381	ID:8	Lightbulb: ON
+12:10.543	ID:2	Delta Energest - CPU: 13424 LPM: 314173 TX: 5987 RX: 2639
+12:10.559	ID:6	Delta Energest - CPU: 22524 LPM: 305153 TX: 8983 RX: 5320
+12:10.655	ID:4	Delta Energest - CPU: 9850 LPM: 317738 TX: 2993 RX: 3064
+12:10.709	ID:7	Delta Energest - CPU: 17033 LPM: 310591 TX: 5990 RX: 5461
+12:10.710	ID:7	Lightbulb: ON
+12:11.015	ID:9	Delta Energest - CPU: 18579 LPM: 308882 TX: 5988 RX: 6581
+12:11.022	ID:5	Delta Energest - CPU: 19009 LPM: 308652 TX: 5984 RX: 5366
+12:11.199	ID:3	Thermostat Temp: -306C
+12:11.208	ID:3	Delta Energest - CPU: 26447 LPM: 301039 TX: 8980 RX: 7376
+12:12.022	ID:1	Delta Energest - CPU: 86782 LPM: 240570 TX: 16324 RX: 311103
+12:12.177	ID:10	Delta Energest - CPU: 20899 LPM: 306673 TX: 5985 RX: 7424
+12:12.535	ID:2	Camera: sending image frame
+12:12.743	ID:4	Camera: sending image frame
+12:15.535	ID:2	Camera: sending image frame
+12:15.647	ID:4	Camera: sending image frame
+12:16.008	ID:9	Smart Plug: ON - Device is drawing power
+12:16.199	ID:3	Thermostat Temp: -304C
+12:18.535	ID:2	Camera: sending image frame
+12:18.647	ID:4	Camera: sending image frame
+12:20.371	ID:8	Lightbulb: ON
+12:20.381	ID:8	Delta Energest - CPU: 16047 LPM: 311653 TX: 5978 RX: 4848
+12:20.543	ID:2	Delta Energest - CPU: 13393 LPM: 314270 TX: 5985 RX: 2540
+12:20.557	ID:6	Delta Energest - CPU: 17783 LPM: 309813 TX: 5988 RX: 5391
+12:20.655	ID:4	Delta Energest - CPU: 14288 LPM: 313374 TX: 5988 RX: 3044
+12:20.700	ID:7	Lightbulb: ON
+12:20.710	ID:7	Delta Energest - CPU: 16769 LPM: 310930 TX: 5987 RX: 4530
+12:21.015	ID:9	Delta Energest - CPU: 17822 LPM: 309758 TX: 5978 RX: 5327
+12:21.022	ID:5	Delta Energest - CPU: 17870 LPM: 309791 TX: 5979 RX: 4206
+12:21.199	ID:3	Thermostat Temp: -308C
+12:21.208	ID:3	Delta Energest - CPU: 16272 LPM: 311375 TX: 2991 RX: 6194
+12:21.535	ID:2	Camera: sending image frame
+12:21.647	ID:4	Camera: sending image frame
+12:22.021	ID:1	Delta Energest - CPU: 80060 LPM: 247344 TX: 14159 RX: 313315
+12:22.177	ID:10	Delta Energest - CPU: 20792 LPM: 306785 TX: 5986 RX: 6994
+12:24.535	ID:2	Camera: sending image frame
+12:24.647	ID:4	Camera: sending image frame
+12:26.200	ID:3	Thermostat Temp: -307C
+12:27.535	ID:2	Camera: sending image frame
+12:27.647	ID:4	Camera: sending image frame
+12:30.380	ID:8	Delta Energest - CPU: 15530 LPM: 312098 TX: 5990 RX: 4874
+12:30.381	ID:8	Lightbulb: ON
+12:30.535	ID:2	Camera: sending image frame
+12:30.545	ID:2	Delta Energest - CPU: 13562 LPM: 314173 TX: 5981 RX: 2563
+12:30.557	ID:6	Delta Energest - CPU: 17674 LPM: 309975 TX: 5982 RX: 4848
+12:30.648	ID:4	Camera: sending image frame
+12:30.657	ID:4	Delta Energest - CPU: 14576 LPM: 313155 TX: 5989 RX: 2936
+12:30.709	ID:7	Delta Energest - CPU: 16353 LPM: 311273 TX: 5985 RX: 4470
+12:30.710	ID:7	Lightbulb: ON
+12:31.015	ID:9	Delta Energest - CPU: 18178 LPM: 309404 TX: 5982 RX: 6358
+12:31.018	ID:9	Smart Plug: OFF - No power draw
+12:31.022	ID:5	Delta Energest - CPU: 18130 LPM: 309534 TX: 5986 RX: 4999
+12:31.199	ID:3	Thermostat Temp: -311C
+12:31.208	ID:3	Delta Energest - CPU: 21048 LPM: 306610 TX: 5987 RX: 6524
+12:32.021	ID:1	Delta Energest - CPU: 89638 LPM: 237821 TX: 18071 RX: 309406
+12:32.177	ID:10	Delta Energest - CPU: 20441 LPM: 307130 TX: 5986 RX: 6867
+12:33.535	ID:2	Camera: sending image frame
+12:33.647	ID:4	Camera: sending image frame
+12:36.199	ID:3	Thermostat Temp: -314C
+12:36.535	ID:2	Camera: sending image frame
+12:36.647	ID:4	Camera: sending image frame
+12:39.535	ID:2	Camera: sending image frame
+12:39.647	ID:4	Camera: sending image frame
+12:40.371	ID:8	Lightbulb: ON
+12:40.381	ID:8	Delta Energest - CPU: 15636 LPM: 312062 TX: 5987 RX: 4945
+12:40.543	ID:2	Delta Energest - CPU: 13456 LPM: 314136 TX: 5984 RX: 2625
+12:40.557	ID:6	Delta Energest - CPU: 17697 LPM: 309963 TX: 5985 RX: 4879
+12:40.655	ID:4	Delta Energest - CPU: 14362 LPM: 313226 TX: 5982 RX: 2881
+12:40.700	ID:7	Lightbulb: ON
+12:40.710	ID:7	Delta Energest - CPU: 16616 LPM: 311085 TX: 5986 RX: 4652
+12:41.015	ID:9	Delta Energest - CPU: 18125 LPM: 309450 TX: 6001 RX: 5789
+12:41.022	ID:5	Delta Energest - CPU: 17963 LPM: 309699 TX: 5989 RX: 4592
+12:41.199	ID:3	Thermostat Temp: -313C
+12:41.208	ID:3	Delta Energest - CPU: 21126 LPM: 306530 TX: 5987 RX: 6788
+12:42.021	ID:1	Delta Energest - CPU: 77246 LPM: 250261 TX: 15103 RX: 312415
+12:42.177	ID:10	Delta Energest - CPU: 20588 LPM: 306988 TX: 5987 RX: 6717
+12:42.535	ID:2	Camera: sending image frame
+12:42.647	ID:4	Camera: sending image frame
+12:45.535	ID:2	Camera: sending image frame
+12:45.647	ID:4	Camera: sending image frame
+12:46.008	ID:9	Smart Plug: ON - Device is drawing power
+12:46.199	ID:3	Thermostat Temp: -315C
+12:48.647	ID:4	Camera: sending image frame
+12:48.654	ID:2	Camera: sending image frame
+12:50.380	ID:8	Delta Energest - CPU: 10878 LPM: 316749 TX: 2996 RX: 4246
+12:50.381	ID:8	Lightbulb: ON
+12:50.543	ID:2	Delta Energest - CPU: 13409 LPM: 314254 TX: 5988 RX: 2510
+12:50.557	ID:6	Delta Energest - CPU: 18114 LPM: 309539 TX: 5984 RX: 5323
+12:50.655	ID:4	Delta Energest - CPU: 14564 LPM: 313097 TX: 5983 RX: 3078
+12:50.709	ID:7	Delta Energest - CPU: 17026 LPM: 310596 TX: 5986 RX: 5049
+12:50.710	ID:7	Lightbulb: ON
+12:51.015	ID:9	Delta Energest - CPU: 14459 LPM: 313126 TX: 2997 RX: 6077
+12:51.022	ID:5	Delta Energest - CPU: 18170 LPM: 309497 TX: 5987 RX: 4408
+12:51.202	ID:3	Thermostat Temp: -313C
+12:51.212	ID:3	Delta Energest - CPU: 21042 LPM: 306727 TX: 5988 RX: 6600
+12:51.535	ID:2	Camera: sending image frame
+12:51.696	ID:4	Camera: sending image frame
+12:52.024	ID:1	Delta Energest - CPU: 80834 LPM: 246690 TX: 13283 RX: 314315
+12:52.177	ID:10	Delta Energest - CPU: 20612 LPM: 306960 TX: 5990 RX: 7418
+12:54.535	ID:2	Camera: sending image frame
+12:54.648	ID:4	Camera: sending image frame
+12:56.199	ID:3	Thermostat Temp: -316C
+12:57.535	ID:2	Camera: sending image frame
+12:57.647	ID:4	Camera: sending image frame
+13:00.371	ID:8	Lightbulb: ON
+13:00.381	ID:8	Delta Energest - CPU: 20349 LPM: 307347 TX: 8981 RX: 5195
+13:00.535	ID:2	Camera: sending image frame
+13:00.545	ID:2	Delta Energest - CPU: 8703 LPM: 319030 TX: 2991 RX: 2520
+13:00.557	ID:6	Delta Energest - CPU: 17751 LPM: 309896 TX: 5987 RX: 4618
+13:00.648	ID:4	Camera: sending image frame
+13:00.657	ID:4	Delta Energest - CPU: 14540 LPM: 313192 TX: 5988 RX: 3062
+13:00.700	ID:7	Lightbulb: ON
+13:00.710	ID:7	Delta Energest - CPU: 12039 LPM: 315666 TX: 2994 RX: 3843
+13:01.015	ID:9	Delta Energest - CPU: 23270 LPM: 304305 TX: 8986 RX: 6593
+13:01.018	ID:9	Smart Plug: OFF - No power draw
+13:01.022	ID:5	Delta Energest - CPU: 17577 LPM: 310086 TX: 5987 RX: 3801
+13:01.202	ID:3	Thermostat Temp: -315C
+13:01.211	ID:3	Delta Energest - CPU: 20405 LPM: 307234 TX: 5987 RX: 5751
+13:02.024	ID:1	Delta Energest - CPU: 83852 LPM: 243603 TX: 14249 RX: 313257
+13:02.177	ID:10	Delta Energest - CPU: 24891 LPM: 302680 TX: 8973 RX: 7221
+13:03.535	ID:2	Camera: sending image frame
+13:03.647	ID:4	Camera: sending image frame
+13:06.202	ID:3	Thermostat Temp: -317C
+13:06.535	ID:2	Camera: sending image frame
+13:06.647	ID:4	Camera: sending image frame
+13:09.535	ID:2	Camera: sending image frame
+13:09.647	ID:4	Camera: sending image frame
+13:10.380	ID:8	Delta Energest - CPU: 15407 LPM: 312221 TX: 5991 RX: 4623
+13:10.381	ID:8	Lightbulb: ON
+13:10.542	ID:2	Delta Energest - CPU: 8804 LPM: 318791 TX: 2989 RX: 2530
+13:10.557	ID:6	Delta Energest - CPU: 17832 LPM: 309824 TX: 5990 RX: 5064
+13:10.655	ID:4	Delta Energest - CPU: 14533 LPM: 313057 TX: 5985 RX: 3153
+13:10.709	ID:7	Delta Energest - CPU: 21579 LPM: 306044 TX: 8984 RX: 5106
+13:10.710	ID:7	Lightbulb: ON
+13:11.017	ID:9	Delta Energest - CPU: 18789 LPM: 308850 TX: 5981 RX: 6661
+13:11.023	ID:5	Delta Energest - CPU: 18260 LPM: 309447 TX: 5986 RX: 4411
+13:11.199	ID:3	Thermostat Temp: -316C
+13:11.208	ID:3	Delta Energest - CPU: 25297 LPM: 302260 TX: 8976 RX: 6078
+13:12.022	ID:1	Delta Energest - CPU: 91341 LPM: 236045 TX: 17674 RX: 309753
+13:12.177	ID:10	Delta Energest - CPU: 21098 LPM: 306470 TX: 5971 RX: 7889
+13:12.535	ID:2	Camera: sending image frame
+13:12.647	ID:4	Camera: sending image frame
+13:15.535	ID:2	Camera: sending image frame
+13:15.647	ID:4	Camera: sending image frame
+13:16.008	ID:9	Smart Plug: ON - Device is drawing power
+13:16.199	ID:3	Thermostat Temp: -318C
+13:18.535	ID:2	Camera: sending image frame
+13:18.647	ID:4	Camera: sending image frame
+13:20.371	ID:8	Lightbulb: ON
+13:20.381	ID:8	Delta Energest - CPU: 15624 LPM: 312075 TX: 5978 RX: 4984
+13:20.543	ID:2	Delta Energest - CPU: 13189 LPM: 314474 TX: 5984 RX: 2286
+13:20.557	ID:6	Delta Energest - CPU: 18358 LPM: 309291 TX: 5982 RX: 5399
+13:20.655	ID:4	Delta Energest - CPU: 14619 LPM: 313040 TX: 5985 RX: 3254
+13:20.700	ID:7	Lightbulb: ON
+13:20.710	ID:7	Delta Energest - CPU: 17152 LPM: 310548 TX: 5984 RX: 4853
+13:21.015	ID:9	Delta Energest - CPU: 13461 LPM: 314062 TX: 2995 RX: 5801
+13:21.022	ID:5	Delta Energest - CPU: 17781 LPM: 309835 TX: 5984 RX: 4066
+13:21.199	ID:3	Thermostat Temp: -324C
+13:21.208	ID:3	Delta Energest - CPU: 15139 LPM: 312520 TX: 2991 RX: 5418
+13:21.535	ID:2	Camera: sending image frame
+13:21.647	ID:4	Camera: sending image frame
+13:22.034	ID:1	Delta Energest - CPU: 82452 LPM: 245402 TX: 16230 RX: 311652
+13:22.177	ID:10	Delta Energest - CPU: 20834 LPM: 306742 TX: 5977 RX: 7594
+13:24.535	ID:2	Camera: sending image frame
+13:24.647	ID:4	Camera: sending image frame
+13:26.203	ID:3	Thermostat Temp: -326C
+13:27.535	ID:2	Camera: sending image frame
+13:27.647	ID:4	Camera: sending image frame
+13:30.380	ID:8	Delta Energest - CPU: 15671 LPM: 311962 TX: 5990 RX: 4805
+13:30.381	ID:8	Lightbulb: ON
+13:30.535	ID:2	Camera: sending image frame
+13:30.545	ID:2	Delta Energest - CPU: 13484 LPM: 314249 TX: 5982 RX: 2601
+13:30.557	ID:6	Delta Energest - CPU: 17939 LPM: 309710 TX: 5982 RX: 5393
+13:30.648	ID:4	Camera: sending image frame
+13:30.657	ID:4	Delta Energest - CPU: 14635 LPM: 313093 TX: 5989 RX: 3125
+13:30.709	ID:7	Delta Energest - CPU: 16773 LPM: 310852 TX: 5988 RX: 4749
+13:30.710	ID:7	Lightbulb: ON
+13:31.015	ID:9	Delta Energest - CPU: 18568 LPM: 309017 TX: 5987 RX: 6431
+13:31.018	ID:9	Smart Plug: OFF - No power draw
+13:31.022	ID:5	Delta Energest - CPU: 17994 LPM: 309670 TX: 5987 RX: 4291
+13:31.205	ID:3	Thermostat Temp: -328C
+13:31.214	ID:3	Delta Energest - CPU: 25659 LPM: 302191 TX: 8974 RX: 6262
+13:32.024	ID:1	Delta Energest - CPU: 83030 LPM: 244065 TX: 13682 RX: 313487
+13:32.177	ID:10	Delta Energest - CPU: 20830 LPM: 306730 TX: 5977 RX: 7889
+13:33.535	ID:2	Camera: sending image frame
+13:33.647	ID:4	Camera: sending image frame
+13:36.199	ID:3	Thermostat Temp: -331C
+13:36.535	ID:2	Camera: sending image frame
+13:36.647	ID:4	Camera: sending image frame
+13:39.535	ID:2	Camera: sending image frame
+13:39.647	ID:4	Camera: sending image frame
+13:40.371	ID:8	Lightbulb: ON
+13:40.381	ID:8	Delta Energest - CPU: 15603 LPM: 312098 TX: 5984 RX: 4574
+13:40.542	ID:2	Delta Energest - CPU: 8936 LPM: 318656 TX: 2988 RX: 2499
+13:40.557	ID:6	Delta Energest - CPU: 17237 LPM: 310422 TX: 5986 RX: 4318
+13:40.655	ID:4	Delta Energest - CPU: 14532 LPM: 313060 TX: 5988 RX: 3135
+13:40.700	ID:7	Lightbulb: ON
+13:40.710	ID:7	Delta Energest - CPU: 16660 LPM: 311039 TX: 5985 RX: 4852
+13:41.015	ID:9	Delta Energest - CPU: 18476 LPM: 309099 TX: 5987 RX: 6266
+13:41.022	ID:5	Delta Energest - CPU: 17802 LPM: 309859 TX: 5986 RX: 4205
+13:41.199	ID:3	Thermostat Temp: -332C
+13:41.208	ID:3	Delta Energest - CPU: 20304 LPM: 307174 TX: 5979 RX: 5919
+13:42.020	ID:1	Delta Energest - CPU: 88379 LPM: 238943 TX: 17285 RX: 310075
+13:42.177	ID:10	Delta Energest - CPU: 20272 LPM: 307308 TX: 5979 RX: 6741
+13:42.535	ID:2	Camera: sending image frame
+13:42.647	ID:4	Camera: sending image frame
+13:45.535	ID:2	Camera: sending image frame
+13:45.647	ID:4	Camera: sending image frame
+13:46.008	ID:9	Smart Plug: ON - Device is drawing power
+13:46.199	ID:3	Thermostat Temp: -330C
+13:48.535	ID:2	Camera: sending image frame
+13:48.647	ID:4	Camera: sending image frame
+13:50.380	ID:8	Delta Energest - CPU: 10492 LPM: 317136 TX: 2991 RX: 4559
+13:50.381	ID:8	Lightbulb: ON
+13:50.543	ID:2	Delta Energest - CPU: 13506 LPM: 314154 TX: 5985 RX: 2572
+13:50.557	ID:6	Delta Energest - CPU: 17981 LPM: 309675 TX: 5988 RX: 5354
+13:50.655	ID:4	Delta Energest - CPU: 14476 LPM: 313177 TX: 5986 RX: 3190
+13:50.709	ID:7	Delta Energest - CPU: 16070 LPM: 311556 TX: 5984 RX: 3912
+13:50.710	ID:7	Lightbulb: ON
+13:51.016	ID:9	Delta Energest - CPU: 18753 LPM: 308852 TX: 5980 RX: 6573
+13:51.022	ID:5	Delta Energest - CPU: 18479 LPM: 309182 TX: 5984 RX: 5246
+13:51.199	ID:3	Thermostat Temp: -332C
+13:51.208	ID:3	Delta Energest - CPU: 20823 LPM: 306833 TX: 5992 RX: 5933
+13:51.535	ID:2	Camera: sending image frame
+13:51.647	ID:4	Camera: sending image frame
+13:52.022	ID:1	Delta Energest - CPU: 79869 LPM: 247650 TX: 13357 RX: 314202
+13:52.177	ID:10	Delta Energest - CPU: 20286 LPM: 307297 TX: 5984 RX: 7102
+13:54.535	ID:2	Camera: sending image frame
+13:54.647	ID:4	Camera: sending image frame
+13:56.201	ID:3	Thermostat Temp: -331C
+13:57.535	ID:2	Camera: sending image frame
+13:57.647	ID:4	Camera: sending image frame
+14:00.371	ID:8	Lightbulb: ON
+14:00.381	ID:8	Delta Energest - CPU: 15818 LPM: 311881 TX: 5985 RX: 5171
+14:00.535	ID:2	Camera: sending image frame
+14:00.545	ID:2	Delta Energest - CPU: 13220 LPM: 314515 TX: 5986 RX: 2441
+14:00.557	ID:6	Delta Energest - CPU: 18166 LPM: 309485 TX: 5986 RX: 5495
+14:00.648	ID:4	Camera: sending image frame
+14:00.657	ID:4	Delta Energest - CPU: 14330 LPM: 313400 TX: 5985 RX: 2979
+14:00.700	ID:7	Lightbulb: ON
+14:00.710	ID:7	Delta Energest - CPU: 17125 LPM: 310572 TX: 5990 RX: 5156
+14:01.015	ID:9	Delta Energest - CPU: 18472 LPM: 309079 TX: 5986 RX: 6343
+14:01.018	ID:9	Smart Plug: OFF - No power draw
+14:01.022	ID:5	Delta Energest - CPU: 18026 LPM: 309631 TX: 5984 RX: 4219
+14:01.199	ID:3	Thermostat Temp: -332C
+14:01.208	ID:3	Delta Energest - CPU: 20708 LPM: 306945 TX: 5984 RX: 6627
+14:02.025	ID:1	Delta Energest - CPU: 84790 LPM: 242763 TX: 16468 RX: 311106
+14:02.177	ID:10	Delta Energest - CPU: 20286 LPM: 307283 TX: 5988 RX: 6495
+14:03.535	ID:2	Camera: sending image frame
+14:03.647	ID:4	Camera: sending image frame
+14:06.199	ID:3	Thermostat Temp: -337C
+14:06.535	ID:2	Camera: sending image frame
+14:06.647	ID:4	Camera: sending image frame
+14:09.535	ID:2	Camera: sending image frame
+14:09.649	ID:4	Camera: sending image frame
+14:10.380	ID:8	Delta Energest - CPU: 20225 LPM: 307397 TX: 8987 RX: 5313
+14:10.381	ID:8	Lightbulb: ON
+14:10.542	ID:2	Delta Energest - CPU: 8856 LPM: 318738 TX: 2992 RX: 2545
+14:10.560	ID:6	Delta Energest - CPU: 23036 LPM: 304707 TX: 8985 RX: 5776
+14:10.655	ID:4	Delta Energest - CPU: 14785 LPM: 312804 TX: 5985 RX: 3445
+14:10.709	ID:7	Delta Energest - CPU: 17362 LPM: 310267 TX: 5984 RX: 5598
+14:10.710	ID:7	Lightbulb: ON
+14:11.015	ID:9	Delta Energest - CPU: 18713 LPM: 308909 TX: 5987 RX: 6497
+14:11.022	ID:5	Delta Energest - CPU: 18436 LPM: 309232 TX: 5983 RX: 4831
+14:11.199	ID:3	Thermostat Temp: -337C
+14:11.208	ID:3	Delta Energest - CPU: 26377 LPM: 301277 TX: 8982 RX: 7560
+14:12.022	ID:1	Delta Energest - CPU: 92515 LPM: 234822 TX: 17446 RX: 309960
+14:12.177	ID:10	Delta Energest - CPU: 20580 LPM: 306996 TX: 5988 RX: 7844
+14:12.535	ID:2	Camera: sending image frame
+14:12.647	ID:4	Camera: sending image frame
+14:15.535	ID:2	Camera: sending image frame
+14:15.647	ID:4	Camera: sending image frame
+14:16.008	ID:9	Smart Plug: ON - Device is drawing power
+14:16.199	ID:3	Thermostat Temp: -335C
+14:18.535	ID:2	Camera: sending image frame
+14:18.647	ID:4	Camera: sending image frame
+14:20.371	ID:8	Lightbulb: ON
+14:20.381	ID:8	Delta Energest - CPU: 15061 LPM: 312638 TX: 5983 RX: 4106
+14:20.543	ID:2	Delta Energest - CPU: 13253 LPM: 314408 TX: 5982 RX: 2464
+14:20.557	ID:6	Delta Energest - CPU: 17173 LPM: 310392 TX: 5979 RX: 4426
+14:20.655	ID:4	Delta Energest - CPU: 9644 LPM: 318018 TX: 2995 RX: 2751
+14:20.703	ID:7	Lightbulb: ON
+14:20.713	ID:7	Delta Energest - CPU: 16388 LPM: 311419 TX: 5990 RX: 4113
+14:21.015	ID:9	Delta Energest - CPU: 18165 LPM: 309473 TX: 5985 RX: 5933
+14:21.022	ID:5	Delta Energest - CPU: 17710 LPM: 309956 TX: 5983 RX: 4491
+14:21.199	ID:3	Thermostat Temp: -335C
+14:21.208	ID:3	Delta Energest - CPU: 20165 LPM: 307492 TX: 5985 RX: 5168
+14:21.535	ID:2	Camera: sending image frame
+14:21.647	ID:4	Camera: sending image frame
+14:22.024	ID:1	Delta Energest - CPU: 74867 LPM: 252668 TX: 12886 RX: 314702
+14:22.177	ID:10	Delta Energest - CPU: 20536 LPM: 307038 TX: 5985 RX: 8100
+14:24.535	ID:2	Camera: sending image frame
+14:24.647	ID:4	Camera: sending image frame
+14:26.199	ID:3	Thermostat Temp: -337C
+14:27.535	ID:2	Camera: sending image frame
+14:27.647	ID:4	Camera: sending image frame
+14:30.380	ID:8	Delta Energest - CPU: 15780 LPM: 311844 TX: 5981 RX: 5116
+14:30.381	ID:8	Lightbulb: ON
+14:30.535	ID:2	Camera: sending image frame
+14:30.545	ID:2	Delta Energest - CPU: 8628 LPM: 319109 TX: 2994 RX: 2415
+14:30.557	ID:6	Delta Energest - CPU: 17783 LPM: 309871 TX: 5981 RX: 5094
+14:30.648	ID:4	Camera: sending image frame
+14:30.657	ID:4	Delta Energest - CPU: 14338 LPM: 313398 TX: 5986 RX: 2774
+14:30.709	ID:7	Delta Energest - CPU: 16713 LPM: 310810 TX: 5988 RX: 4719
+14:30.710	ID:7	Lightbulb: ON
+14:31.018	ID:9	Delta Energest - CPU: 18454 LPM: 309297 TX: 5989 RX: 6554
+14:31.021	ID:9	Smart Plug: OFF - No power draw
+14:31.022	ID:5	Delta Energest - CPU: 18671 LPM: 308984 TX: 5986 RX: 5391
+14:31.199	ID:3	Thermostat Temp: -335C
+14:31.208	ID:3	Delta Energest - CPU: 20669 LPM: 306987 TX: 5988 RX: 6630
+14:32.035	ID:1	Delta Energest - CPU: 86241 LPM: 241556 TX: 19678 RX: 308184
+14:32.178	ID:10	Delta Energest - CPU: 25224 LPM: 302396 TX: 8975 RX: 7432
+14:33.535	ID:2	Camera: sending image frame
+14:33.647	ID:4	Camera: sending image frame
+14:36.199	ID:3	Thermostat Temp: -340C
+14:36.535	ID:2	Camera: sending image frame
+14:36.647	ID:4	Camera: sending image frame
+14:39.535	ID:2	Camera: sending image frame
+14:39.647	ID:4	Camera: sending image frame
+14:40.371	ID:8	Lightbulb: ON
+14:40.381	ID:8	Delta Energest - CPU: 11060 LPM: 316644 TX: 2991 RX: 4585
+14:40.543	ID:2	Delta Energest - CPU: 13247 LPM: 314349 TX: 5985 RX: 2362
+14:40.557	ID:6	Delta Energest - CPU: 18059 LPM: 309590 TX: 5982 RX: 5868
+14:40.655	ID:4	Delta Energest - CPU: 14542 LPM: 313049 TX: 5986 RX: 3130
+14:40.700	ID:7	Lightbulb: ON
+14:40.710	ID:7	Delta Energest - CPU: 17199 LPM: 310499 TX: 5982 RX: 5313
+14:41.015	ID:9	Delta Energest - CPU: 18602 LPM: 308940 TX: 5983 RX: 6320
+14:41.022	ID:5	Delta Energest - CPU: 17991 LPM: 309675 TX: 5983 RX: 4318
+14:41.199	ID:3	Thermostat Temp: -338C
+14:41.208	ID:3	Delta Energest - CPU: 21554 LPM: 306105 TX: 5982 RX: 6486
+14:42.047	ID:1	Delta Energest - CPU: 82082 LPM: 245732 TX: 12893 RX: 315026
+14:42.177	ID:10	Delta Energest - CPU: 14928 LPM: 312599 TX: 2998 RX: 5815
+14:42.535	ID:2	Camera: sending image frame
+14:42.647	ID:4	Camera: sending image frame
+14:45.536	ID:2	Camera: sending image frame
+14:45.647	ID:4	Camera: sending image frame
+14:46.008	ID:9	Smart Plug: ON - Device is drawing power
+14:46.199	ID:3	Thermostat Temp: -340C
+14:48.535	ID:2	Camera: sending image frame
+14:48.647	ID:4	Camera: sending image frame
+14:50.380	ID:8	Delta Energest - CPU: 20213 LPM: 307409 TX: 8979 RX: 5011
+14:50.381	ID:8	Lightbulb: ON
+14:50.543	ID:2	Delta Energest - CPU: 13182 LPM: 314480 TX: 5981 RX: 2359
+14:50.557	ID:6	Delta Energest - CPU: 12431 LPM: 315223 TX: 2990 RX: 3979
+14:50.655	ID:4	Delta Energest - CPU: 9444 LPM: 318217 TX: 2995 RX: 2723
+14:50.709	ID:7	Delta Energest - CPU: 11801 LPM: 315825 TX: 2990 RX: 4019
+14:50.710	ID:7	Lightbulb: ON
+14:51.015	ID:9	Delta Energest - CPU: 18254 LPM: 309403 TX: 5985 RX: 5522
+14:51.022	ID:5	Delta Energest - CPU: 13186 LPM: 314480 TX: 2992 RX: 4239
+14:51.199	ID:3	Thermostat Temp: -339C
+14:51.208	ID:3	Delta Energest - CPU: 19893 LPM: 307771 TX: 5982 RX: 4765
+14:51.535	ID:2	Camera: sending image frame
+14:51.647	ID:4	Camera: sending image frame
+14:52.022	ID:1	Delta Energest - CPU: 73583 LPM: 253109 TX: 14397 RX: 312320
+14:52.177	ID:10	Delta Energest - CPU: 20299 LPM: 307281 TX: 5994 RX: 7125
+14:54.535	ID:2	Camera: sending image frame
+14:54.647	ID:4	Camera: sending image frame
+14:56.199	ID:3	Thermostat Temp: -341C
+14:57.535	ID:2	Camera: sending image frame
+14:57.647	ID:4	Camera: sending image frame
+15:00.371	ID:8	Lightbulb: ON
+15:00.381	ID:8	Delta Energest - CPU: 10240 LPM: 317464 TX: 2993 RX: 3599
+15:00.535	ID:2	Camera: sending image frame
+15:00.545	ID:2	Delta Energest - CPU: 8835 LPM: 318898 TX: 2994 RX: 2529
+15:00.557	ID:6	Delta Energest - CPU: 17598 LPM: 310050 TX: 5987 RX: 4738
+15:00.648	ID:4	Camera: sending image frame
+15:00.657	ID:4	Delta Energest - CPU: 14462 LPM: 313270 TX: 5985 RX: 2996
+15:00.700	ID:7	Lightbulb: ON
+15:00.710	ID:7	Delta Energest - CPU: 16510 LPM: 311188 TX: 5981 RX: 4757
+15:01.015	ID:9	Delta Energest - CPU: 18057 LPM: 309601 TX: 5983 RX: 5804
+15:01.018	ID:9	Smart Plug: OFF - No power draw
+15:01.022	ID:5	Delta Energest - CPU: 18038 LPM: 309620 TX: 5992 RX: 4475
+15:01.199	ID:3	Thermostat Temp: -343C
+15:01.208	ID:3	Delta Energest - CPU: 20638 LPM: 307022 TX: 5986 RX: 5967
+15:02.042	ID:1	Delta Energest - CPU: 81130 LPM: 246935 TX: 13127 RX: 315020
+15:02.177	ID:10	Delta Energest - CPU: 20598 LPM: 306969 TX: 5981 RX: 7119
